@@ -39,3 +39,7 @@ from dotenv import load_dotenv
 ##REMEMBER TO SYNC WITH GITHUB REPOSITORY
 1. Open source control on the left hand side of the screen
 2. Click the plus sign (+)
+3. Add a commit message in the message bar (update)
+4. Click "commit"
+5. Click "sync changes"
+6. IMPORTANT to check github repositories that its already synced
