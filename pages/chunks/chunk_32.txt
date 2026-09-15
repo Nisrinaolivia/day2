@@ -1,0 +1,9 @@
+There are some drafting problems in s 7.1. It incorporates only a partial definition of “impartial”, ie “without favouritism or
+bias in act or omission”. Two elements are missing from the definition:
+1. It does not include and thus prohibit bias by “word”, only bias by “action” (or omission). 2. It does not extend to “a perception of bias”. Ideally these elements of the definition of “impartial” would be added to s 7.1. 128
+New PS s 7.2
+There is a gap in s 7.2. It only imposes on the mediator an obligation to disclose potential grounds of bias or conflict of
+interest, and not actual grounds of bias or conflict. The drafters may have thought that: if potential for bias or conflict has
+to be revealed and dealt with in accordance with the provision, then a situation of actual bias or conflict not sanctioned by
+the parties, will not arise (this is the “nip it in the bud early” idea). This is an unrealistic assumption. There might be an
+actual ground of bias or conflict in existence before the mediator ever has contact with the participants.

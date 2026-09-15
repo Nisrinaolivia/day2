@@ -1,0 +1,1613 @@
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 1
+Journal of Civil Litigation and Practice
+V olume 5
+No 2, 2016
+Mediator standards of conduct: A commentary to the revised National Mediator Accreditation System Practice Standards
+Original author(s): Bobette Wolski*
+Last Review: 01/01/2016
+Mediator standards of conduct: A commentary to
+the revised National Mediator Accreditation System
+Practice Standards
+Abstract
+This article concerns the National Mediator Accreditation System (NMAS) Practice Standards which were extensively
+revised in 2015. According to the Chair of the Mediator Standards Board, the standards now “specify clearly the
+minimum practice and competency requirements” for NMAS accredited mediators. The study undertaken in this
+article, in which the revised Practice Standards are compared with those that they replace, suggests otherwise.
+Numerous gaps (for example, as to the mediator's duty of confidentiality) and uncertainties (for example, as to the
+meaning of “impartiality”) in the revised standards are identified. The author concludes that the revised standards
+provide little guidance to mediators faced with a choice between contradictory courses of action and conflicting
+values. The usefulness of the standards as a tool to educate mediators (and to instil in them a sense of the values of
+mediation), participants and potential participants has been compromised by the recent revisions. The article offers
+possible solutions for overcoming shortcomings in the standards.
+(2016) 5 JCivLP 109
+Introduction
+The National Mediator Accreditation System (NMAS) commenced operation in Australia on 1 January 2008. The NMAS is
+an industry-based system which relies on voluntary compliance by mediator organisations (known as Recognised Mediator
+Accreditation Bodies or RMABs) that agree to accredit mediators in accordance with stipulated NMAS Standards. 1 There are
+almost 40 RMABs at the current time. They include courts (the Federal Court of Australia and Supreme Court of Western
+Australia) and tribunals (the Administrative Appeals Tribunal and Victorian Civil and Administrative Tribunal), professional
+bodies (most State and Territory law societies and bar associations), mediation agencies (eg Australian Dispute Resolution
+Association Inc) and community organisations (eg Relationships Australia and community justice centres in a number of States
+and Territories).2
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 2
+Two sets of standards were promulgated in connection with the NMAS and came into effect on 1 January 2008: Approval
+Standards which specify the qualifications and training requirements for accreditation under the system;3 and Practice Standards
+which specify “the minimum practice and competency requirements of a NMAS accredited mediator”. 4 The standards were
+subject to minor revision in 2012. They were extensively revised last year, as was the NMAS itself, with the revisions taking
+effect from 1 July 2015. The revised Practice Standards are set within the context of a “broader document covering ancillary
+aspects of the NMAS”.5 The document includes an introductory section (Part I); more formal provision with respect to RMABs,
+including a requirement that they upload to a
+110
+National Register a list of mediators they have accredited (Part IV); provision with respect to the Register of Nationally
+Accredited Mediators (Part V); and a section dealing with membership and responsibilities of the Mediator Standards Board
+(MSB) (Part VI) which was established in 2010 to oversee the NMAS.6 The standards sit in the middle of the NMAS document:
+the Approval Standards can be found in Part II of the document, while the Practice Standards are in Part III.
+This article is concerned with the revised Practice Standards for mediators operating under the NMAS. According to the
+Chair of the MSB, the revised Practice Standards “ specify clearly the minimum practice and competency requirements for
+mediators”. 7 In the author's opinion, this claim is overstated. There are a number of gaps and uncertainties in the revised Practice
+Standards. In many ways, as this article seeks to demonstrate, the original Practice Standards better fulfilled the functions
+normally served by standards of conduct of a profession. Those functions include: 8
+• informing mediators of the standards of service required of them;
+• inculcating in mediators the values considered intrinsic to mediation practice;
+• informing users, potential users and members of the public of the standards of service they can expect of mediators;
+• alerting mediators and other participants to the ethical dilemmas likely to arise in mediation practice and providing them
+with guidance on “ethical” responses to those dilemmas; and
+• fostering pride and public respect for the profession.
+The article compares and contrasts the revised Practice Standards issued in 2015 (new PS) with the Practice Standards as they
+stood at March 2012 (old PS). It also provides a detailed section-by-section commentary on the new PS and, more generally,
+on mediator standards of conduct. It concludes by highlighting uncertainties and gaps in the new PS – all of which point to
+a lack of clear specification of the standards of conduct required of mediators. Some suggestions for improving the new PS
+are also provided.
+The article begins with a brief examination of the introductory provisions of the NMAS documentation (ie Part I of the
+documentation).
+Comparison of new and old NMAS PS and a commentary
+The new PS must be read in conjunction with the other parts of the Revised NMAS documentation. Part I is particularly
+important to the subject matter of this article. It sets out:
+1. the purpose of the NMAS;
+2. its application;
+3. the role of mediators, and
+4. the NMAS structure.
+According to Part I, the purpose of the NMAS is to promote “quality, consistency and accountability of NMAS accredited
+mediators within the diversity of mediation practice in Australia. It informs participants in mediation (participants) about what
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 3
+they can expect of a NMAS accredited mediator”. 9 These are ambitious goals and the extent to which the NMAS achieves
+them is debatable.
+111
+The second provision in Part I deals with the application of the standards. The standards: 10
+apply when a person is seeking accreditation in relation to and conducting mediation processes as defined in Section 2
+of the Practice Standards. When a person practises as a mediator in other contexts, such as hybrid, blended or statutory
+environments, additional requirements relevant to that context may apply.11
+The implications of this provision, with its cross-reference to the definition of mediation in s 2, are discussed further in the
+commentary to s 2.2 below.
+Part I of the new PS then describes the mediator's role, in the following terms: “A mediator uses the knowledge, skills and
+ethical principles referred to in Part III s 10.1 of the NMAS to assist participants to make their own decisions in relation to
+disputes, conflicts or differences among them”.12 The words “knowledge, skills and ethical principles” complicate the sentence,
+as does the reference to “Part III Section 10.1”. A simple alternative sentence is suggested in the commentary to s 2.1 below.
+Standards of conduct perform an educative function for mediators, for other people who participate or who are thinking of
+participating in mediation, and more generally for members of the public. The first three provisions in Part I are most likely to
+be the first paragraphs that non-mediators will read. Currently, they are worded for mediators. Ideally, they should be written
+with the “lay” participant in mind. More user-friendly ways of introducing mediation to the community need to be adopted.
+Turning now to examine the PS contained in Part III of the NMAS documentation, the table below compares the PS. It
+examines first the provision/s of the new PS, followed by the “corresponding” provision/s of the old PS, followed by the author's
+commentary on the revisions and on mediator standards generally. These are not official comments released by the NMAS
+drafting body (some standards and codes of conduct contain an official commentary following each rule or standard 13 but
+that format has not been adopted in the NMAS Practice Standards). There is one change in format which is best noted at the
+beginning. The old PS, beginning at s 2, contained a statement of principle (for want of a better phrase) immediately following
+the section heading.14 This format has not been retained in the new PS and all statements of principle have been omitted, though
+in some instances the content of the statement has been absorbed into the main provisions. The other general comment, an
+important one, is that the language of the standards has changed so that practitioners are told that they “must” do such and such,
+rather than merely that they “should” do such and such. The new PS are more prescriptive in style.15 In the table which follows,
+text from the old PS which has been omitted from the new PS, is underlined and marked as “OMITTED”. This format allows
+readers to see, at a glance, the many important provisions that have been deleted from the original PS.
+112
+NMAS Practice Standards 2015 (new PS), Part III
+1 Application
+1.1: “The Practice Standards apply to NMAS accredited mediators” (cf s 1.1 of the old PS).
+1.2: Sets out the purpose of the PS. It provides as follows:
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 4
+1.2(a): The PS “specify the minimum practice and competency requirements of a NMAS accredited mediator” (emphasis
+added) (cf s 1.2(a) of the old PS).
+1.2(b): The PS “inform participants and others about what they can expect of the mediation process and of a NMAS
+accredited mediator” (cf s 1.2(b) of the old PS).
+1.2(c): The PS “should be read in conjunction with the Approval Standards (Part II of the NMAS), with which a NMAS
+accredited mediator must also comply” (cf s 1.3 of the old PS).
+1.3: “Where a mediator practises under a legislative framework and there is a conflict between a provision of the Practice
+Standards and a provision of that framework, the legislative framework will override the Practice Standards to the extent of
+any inconsistency” (cf s 1.5 of the old PS).
+NMAS Practice Standards 2012 (old PS)
+1 Application
+1.1: The PS purported to apply to “any mediator acting as a third party to support two or more individuals or entities to
+manage, settle or resolve disputes, or to form a future plan of action through a process of mediation and who voluntarily
+decides to become accredited under the National Mediator Accreditation Scheme.” It described the mediator's role (and
+at the same time, defined mediation) in the following terms: “[a] mediator supports participants in a mediation process
+to identify, clarify and explore issues, to generate and consider options and to make decisions about future actions and
+outcomes”. OMITTED (although some of this material is included in ss 2.1 and 2.2 of the new PS).
+1.1: Further provided that the Standards “are intended to govern the relationship of mediators with the participants in
+the mediation, their professional colleagues, courts and the general public so that all will benefit from high standards of
+practice in mediation”. OMITTED
+1.2: Sets out the purpose of the PS.
+1.2(a): Provided that the PS specified “practice and competency requirements for mediators”. That these were to be
+regarded as “minimum” requirements was set out in s 1.4 of the old PS as mentioned below.
+1.2(b): Stated that the PS “inform participants and others about what they can expect of the mediation process and
+mediators”.
+1.3: Provided that mediators who were voluntarily accredited under this scheme “must comply with the Approval
+Standards as well as the Practice Standards” and that the two sets of standards were to be read together.
+1.4: Informed the reader that: “[t]here are a range of different mediation models in use across Australia”; mediation can
+take place in a variety of settings and may be used in a wide range of disputes; mediators come from diverse backgrounds
+and disciplines; mediation can be used where there is conflict or to support future decision-making; mediation may
+take place as a result of court or tribunal referral, as part of community schemes, or by private referral; depending on
+the context, mediators might have to comply with additional requirements; mediators may practise alone or with a co-
+mediator. Also, this provision established that the PS set out minimum practice requirements. The entire paragraph, with
+the exception of the reference to “minimum” requirements, has been OMITTED.
+1.5: This provision is in substantially the same terms as s 1.3 of the new PS. It governed in the event of inconsistency
+between the PS and any legislative framework pursuant to which a mediator practised.
+113
+Commentary: s 1 Application
+New PS s 1.1
+This section has been whittled down to a single short sentence, namely that “the PS apply to NMAS accredited mediators”.
+Much of the information contained in s 1.1 of the old PS has been omitted (see the discussion below).
+New PS s 1.2
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 5
+Section 1.2(a) draws on ss 1.2(a) and 1.4 of the old PS. It makes clear that the PS are the “minimum practice and
+competency requirements” of a NMAS accredited mediator (emphasis added). However, that these are minimum standards
+is at odds with s 10, which appears to give an exhaustive account of the knowledge, skills and ethical responsibilities of
+mediators. (It is not s 1.2 but rather s 10 which needs to be changed).
+Section 1.2(b) is at the heart of the section – the principal purpose of the PS appears to be educative in nature, ie informing
+participants “and others” about what they can expect of the process and of mediators. While that is the stated purpose of
+the PS, many of the provisions appear to be written for mediators and not for “others”. For example, it might be difficult
+for an unrepresented first-time participant of mediation to understand the provisions of ss 2.1 and 2.2 of the new PS (see
+below).
+Section 1.2(c) picks up the provisions of s 1.3 of the old PS (there being no s 1.2(c) in the old PS). It is straightforward. It
+emphasises the fact that the NMAS is a voluntary accreditation system and that persons who become accredited must be
+prepared to comply with the Approval Standards as well as the PS.
+New PS s 1.3
+The terms of s 1.3 of the new PS are almost identical to those of s 1.5 of the old PS. If there is an inconsistency between
+the PS and relevant legislative provisions pursuant to which a mediator is engaged (eg such as those pertaining to family
+law, or to civil procedure law in many jurisdictions),16 the legislative provisions will prevail.
+Provisions omitted from old PS s 1
+There are a number of important provisions that have been jettisoned from s 1.1 of the old PS. These provisions
+communicated to all stakeholders, from the very first paragraph, a clear statement as to who the PS applied to, a definition
+of mediation, a sense of the purpose of mediation and of the role of a mediator, all conveyed in easy to understand terms
+and without any need to cross-reference to other sections. The new PS do deal with the role of a mediator, both in Part
+I and also in ss 2.1 and 2.2, but the terms used might be difficult for some people to understand (see the discussion
+pertaining to s 2).
+Section 1.1 of the old PS clearly specified the relationships the PS were intended to govern. Again, this provision has been
+whittled down and the new PS appear only to govern the relationship between mediators and participants, though there is
+some mention of “others” in s 1.2(b) and reference to colleagues in s 8. However, there is no sense that the new PS also
+govern the mediator's relationship to courts and tribunals, and to the general public. On this point, the provision (the last
+sentence) from s 1.1 of the old PS is to be preferred.
+114
+Section 1.1 of the old PS mentions that mediation can be used “to form a future plan of action” and to make decisions
+“about future actions and outcomes”. These references have been omitted from the new PS. (While mediation is described
+as a decision-making process in ss 2.1 and 2.2 of the new PS, there is no mention of the making of decisions about future
+plans, actions and outcomes.) As a result, two important points have been lost from the old PS. First, mediation is not just a
+dispute resolution process. It can be used for other purposes, such as to negotiate the terms of an agreement between parties
+who have never dealt with each other before. Second, even if mediation is being used to resolve a dispute, it is often times
+future-focused and not necessarily concerned with laying blame for past events.
+The omission of s 1.4 of the old PS is of particular concern. It helped inform participants, potential participants, courts and
+tribunals, and members of the public about many aspects of mediation, including: its diversity as a practice as well as the
+diversity of mediators; its capacity to deal with a range of disputes; its use for dispute resolution and “deal” making; and
+the ways in which mediation might come about.
+New PS
+2 The mediation process
+2.1: “A mediator uses the knowledge, skills and ethical principles referred to in Part III Section 10.1 of the NMAS to assist
+participants to make their own decisions in relation to disputes, conflicts or differences among them” (cf ss 2.1 and 7.3 of
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 6
+the old PS). This provision is identical to the description of the “role of mediators in a mediation process”, used in Part I to
+the new NMAS documentation.
+2.2: Defines mediation as:
+a process that promotes the self-determination of participants and in which participants, with the support of a mediator:
+(a) communicate with each other, exchange information and seek understanding;
+(b) identify, clarify and explore interests, issues and underlying needs;
+(c) consider their alternatives;
+(d) generate and evaluate options;
+(e) negotiate with each other; and
+(f) reach and make their own decisions.
+The section continues: “A mediator does not evaluate or advise on the merits of, or determine the outcome of,
+disputes” (emphasis added). The footnote in this provision refers the reader to s 10.2 and mentions the possibility of a
+mediator using a blended process (cf s 2.7 of the old PS).
+115
+Old PS
+2 Description of a mediation process
+Statement of principle: “[t]he purpose of a mediation process is to maximise participants' decision making”. The statement
+has been OMITTED
+2.1: Stated that mediation “is a process in which the participants, with the support of a mediator, identify issues, develop
+options, consider alternatives and make decisions about future actions and outcomes. The mediator acts as a third party to
+assist the participants to reach their decision”. Some of this sub-section has survived and is incorporated into s 2.2 of the
+new PS but the underlined portions have been OMITTED.2.2: Provided that “[m]ediation processes are not a substitute for
+individual or organisational legal and/or other expert advice, or individual counselling or therapy. Mediation processes may
+not be appropriate for all disputants or all types of disputes”. OMITTED
+2.3: “The goal of a mediation process is agreed upon by the participants with the assistance of the mediator. Examples of
+goals may include assisting the participants to make a wise decision, to clarify the terms of a workable agreement and/or
+future patterns of communication that meet the participants' needs and interests, as well as the needs and interests of others
+who are affected by the dispute.” OMITTED2.4: Set out potential benefits of mediation, eg it may assist the participants
+“to communicate and exchange relevant information”, “invite the clarification of issues”, “provide opportunities for
+understanding” and so on. Most of this content has been incorporated into s 2.2 of the new PS. However, there is one
+important exception. Section 2.4(g) which provided that mediation may “promote a focus on the interests and needs of
+those who may be subject to, or affected by, the situation and proposed options” has been OMITTED.
+2.5: “Mediators do not advise upon, evaluate or determine disputes. They assist in managing the process of dispute
+and conflict resolution whereby the participants agree upon the outcomes, when appropriate. Mediation is essentially
+a process that maximises the self determination of the participants. The principle of self-determination requires that
+mediation processes be non-directive as to content.” OMITTED2.6: It provided that the giving of “expert information”
+by the mediator would not infringe upon participant self-determination and was consistent with the mediation process,
+provided the information was “couched in general and non-prescriptive terms” and was presented at a time when it could
+be integrated into the participants' decision making. OMITTED
+2.7: In certain circumstances, mediators might use a “blended process” model of mediation “whereby they provide
+advice” (so long as it was requested by the parties and also “given in a manner that enhances the principle of self-
+determination”).
+Commentary: s 2 The mediation process
+New PS s 2.1
+Section 2.1 of the new PS repeats the information given in Part I about the role of a mediator. The reference to
+“knowledge, skills and ethical principles” and the cross-reference to s 10.1 are unnecessary complications from the
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 7
+perspective of a lay person. A better alternative might be to state that: “A mediator assists participants to make their own
+decisions in relation to disputes, conflicts or differences among them”.
+116
+New PS s 2.2
+Section 2.2 provides a definition of mediation. 17 At least one author maintains that the opening words of s 2.2 represent
+a change of focus in the Standards, from mediator “neutrality” as an ethical framework for mediation, to one based on
+participant self-determination. 18 There is no doubt that the word “neutrality” has been deleted from the list of ethical
+competences or understandings required by a mediator (see s 10.1(c)) and that participant “self-determination” is now an
+explicit part of the definition of mediation in s 2.2. While there is some debate over the values that underpin mediation,
+there is wide agreement that “self-determination” is its central value. 19 Consequently, both of these revisions improve the
+PS (the current thinking in relation to neutrality is discussed later in connection with s 10.1). But it is important to note
+that a focus on self-determination as a value of mediation, perhaps even the central value, is not new. There were multiple
+provisions in the old PS which emphasised the value of self-determination (see, eg ss 2.5, 2.6, 2.7, 9.7, 9.8 and 10.1).
+There is a potential problem with the remaining parts of the definition of mediation in s 2.2. It describes only one model
+of mediation (ie a facilitative model) 20 when several other models have been identified in the literature. For example,
+Boulle identifies four paradigm models – the settlement, facilitative, therapeutic and evaluative models 21 (but he is at
+pains to point out that these models are not distinct alternatives to one another). 22 The definition in s 2 is based on twin
+assumptions: first, that facilitative interest-based mediation is, if not the single correct model of mediation, then at least the
+more ethical model; 23 and second, that all mediators use this model (and if they do not, then they should be encouraged to
+do so). Both of these assumptions are flawed. As to the first, the fact that different models have been identified highlights
+the lack of consensus by mediation practitioners and scholars over the “correct” model/s, and associated objectives, values
+and practices. No one model of mediation is more ethical than another. As to the second assumption, research suggests that
+the majority of mediators use more than one approach in a single mediation and sometimes, even in a single meeting with
+the parties. 24 Few mediators use an approach which is purely facilitative.
+When the definition of mediation as it stands in s 2.2 is read in conjunction with the application section in Part 1, it
+appears that the Standards only apply when a mediator uses a facilitative model (or alternatively, when he or she uses a
+recognised hybrid model, eg legal aid conferencing, or a blended model as contemplated under s 10.2 of the PS). Given
+the reality of practice, many mediations will not be covered by the definition in s 2 – in other words, the Standards appear
+to be extremely limited in their application. They may not apply to mediators (and participants) who use more than one
+approach, or to mediators who are settlement-oriented and rights-based in their approach; or to those mediators who favour
+transformative mediation. (It is worth remembering that the parties may determine which approach is used and they may
+resist all attempts by the mediator to turn them from a rights-based approach to an interest-based one.) This uncertainty did
+not arise under the old PS.
+117
+The relevant section of the old PS (ie the first sentence of s 1.1) was general in its approach to the application of the
+Standards – it did not target a specific model of mediation. The old PS purported to apply to “any mediator acting as a third
+party to support two or more individuals or entities to manage, settle or resolve disputes, or to form a future plan of action
+through a process of mediation and who voluntarily decides to become accredited” under this Scheme. This section of the
+old PS allowed for the diversity of mediation practice to a far greater extent than is the case under the new PS.
+Although the new definition of mediation in s 2.2 highlights “self-determination”, it does not explain what the term means
+(neither was there a full explanation of the concept in the old PS, although ss 2.5 and 2.6 were on point). More information
+on this concept could be given in the PS. For more clarification on the meaning of self-determination, it is necessary to
+draw on the work of various scholars (see the explanations given in relation to s 7.4 of the old PS).
+Provisions omitted from old PS s 2
+Section 2.1 of the old PS had other positive features:
+• It stopped short of describing mediation as an interest-based process. This better allowed for diversity in mediation
+practice.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 8
+• It allowed for the fact that mediation might be used to make “decisions about future actions and outcomes”. This
+reference has been omitted from the new PS. As discussed above, mediation is not just a dispute resolution process
+and this should be reflected in the Standards.
+118
+Section 2.2 of the old PS has been omitted from s 2 of the new PS. Consideration should be given to replacing it. All
+participants need to understand:
+(1) What mediation is not, eg it is not counselling.
+(2) That mediation is not appropriate for all disputes or for all disputants. The reference to suitability in s 3.2(a)
+of the new PS is not sufficient.
+Section 2.3 of the old PS has also been omitted. At least three points have been lost as a result. First, participants can
+negotiate about what they want to achieve out of mediation; second, the goal of mediation need not be to reach a final
+agreement about a dispute (eg the parties might agree to a pattern of communication for the future), and three, the
+participants might give consideration to the interests of third parties. Ultimately, the omission of this section may decrease
+the parties' sense of self-determination. Consideration should be given to reintroducing the section.
+Disappointingly, there is less emphasis in the new PS on protecting the interests of others affected by the outcome of
+mediation with the omission of ss 2.3 and 2.4(g) of the old PS. There is some provision for the protection of “vulnerable
+stakeholders” in s 8.4 of the new PS, but it is suggested that this is insufficient.
+Two sentences from s 2.5 of the old PS have been omitted from the new PS. Each sentence is important and should have
+been retained. The first sentence states that “[m]ediation is essentially a process that maximises the self determination of
+the participants”. It emphasised in the clearest possible terms that self-determination is, if not the central value, then at least
+one of the central values of mediation. The second sentence to be omitted stated that “the principle of self-determination
+requires that mediation processes be non-directive as to content”. This sentence was intended, primarily, for the education
+of mediators. Today we recognise that most process interventions also have an impact on the outcome of mediation, but
+this sentence reminded mediators that they should, as humanly as possible, refrain from adopting techniques which direct
+the parties towards particular outcomes. There is value in adding these sentences back into the PS.
+Section 2.6 of the old PS recognised that parties must be fully informed about a range of matters before they can truly
+make their own decisions (self-determine) and it permitted a mediator to give the parties expert information provided it
+was couched in general and non-prescriptive terms and was given at a time which enabled the parties to integrate it into
+their decision-making. A mediator could not give specific and prescriptive advice unless acknowledging that he or she was
+using a blended model as provided for in s 2.7 of the old PS. These provisions were reinforced by the terms of s 10.1 of the
+old PS. Under the new PS, mediators are no longer allowed to give the parties “general and non-prescriptive” information.
+They may give advice providing the terms of s 10.2 are fulfilled.
+119
+New PS
+3 Conducting mediation: Preliminary conference or intake
+3.1: A mediator must, in a preliminary conference or intake session, ensure that participants are provided with: “(a)
+a description of mediation and the steps involved including the use of joint sessions, separate sessions and shuttle
+negotiations; (b) information on how to provide feedback or lodge a formal complaint in relation to the mediator” (cf
+statement of principle for s 3, and ss 3.2, 3.4 and 6 of the old PS).
+3.2: Sets out tasks which might be undertaken in the preliminary conference or intake session including: (a) “assessing
+whether mediation is suitable”; (b) “explaining to participants the nature and content of any agreement or requirement to
+enter into mediation including confidentiality, costs and how they are to be paid”; (c) identifying who is participating; (f)
+referring participants to other sources of information, advice or support; and (g) informing “participants about their roles
+and those of advisors, support persons, interpreters and any other attendees” (cf ss 3.3 and 3.4 of the old PS).
+As was the case under the old PS, someone other than the mediator may conduct the preliminary conference or intake
+session (s 3.1) (cf s 3.2 of the old PS).
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 9
+Old PS
+3 Starting a mediation process
+Statement of principle: “Before mediating, a mediator should ensure that an outline of the mediation process has been
+given to the participants”. This statement has been subsumed within the provisions of s 3.1 of the new PS.
+3.1: “The diversity in mediation practice means that there are considerable differences in terms of how participants
+enter into a mediation process”. OMITTED3.2: “Prior to the mediation taking place, the mediator will ensure that the
+participants have been provided with an explanation of the process and have had an opportunity to reach agreement about
+the way in which the process is to be conducted”. OMITTED.3.3: Sets out some of the possible objectives of an intake
+process, such as: (a) determining whether mediation is appropriate; (b) assisting participants to prepare for the process;
+(c) ensuring that every participant receives information about the roles of each party in the mediation; and (g) settling
+venue and timing issues.3.4: Listed things that the mediator should do in intake or during the mediation including: (a)
+“describe and explain the mediation process that is to be used”; (b) discuss the appropriateness of the process, its benefits
+and risks, in the light of the participants' particular circumstances; (c) “discuss the confidentiality of the mediation and
+any limitations on such confidentiality”; (f) explain indemnity provisions contained in any agreement to mediate; (g)
+advise participants of the mediator's role in relation to the provision of advice or other services; and (h)(ii) advise “how
+participants may seek information and advice from a variety of sources during the process”. The underlined provisions
+have been OMITTED.
+3.5: Encouraged the participants to enter into a written mediation agreement. It also encouraged the mediator to record, in
+writing, the participants' understanding and agreement with respect to entry into mediation and confidentiality (or waiver
+of confidentiality). It applied whether mediation came about by private agreement or pursuant to legislation. The section
+has been OMITTED.
+3.6: Instructed mediators to provide a copy of the Standards to the participants (or at least, to advise them how they could
+get a copy). OMITTED
+120
+Commentary: s 3 Conducting mediation: Preliminary conference or intake
+New PS s 3.1
+Section 3.1(a) of the new PS takes up most of the statement of principle from s 3 of the old PS: mediators have to give the
+participants a description of the mediation process and the steps involved. No guidance is given as to how detailed this
+information should be, so this decision will be left to individual mediators.
+Under s 3.1(b) of the new PS, mediators also have to advise participants about how to make a formal complaint “in relation
+to the mediator”. It might be prudent to expand this provision so that participants are also made aware of how to make a
+complaint in relation to the relevant mediation organisation or body (eg Relationships Australia or the AAT).
+New PS s 3.2
+Section 3.2 of the new PS is in similar terms to, and covers all major issues from, s 3.3 of the old PS. It sets out the
+objectives of, and a list of matters to be undertaken in, a preliminary conference or intake session. However, as discussed
+below, many provisions from s 3 of the old PS have been omitted.
+Under the old PS, mediators were required to inform the participants of how to access the Standards (see s 3.6 of the
+old PS). Under the new PS, participants must be advised “about the NMAS and how it can be accessed” (s 3.2(d)). It
+appears that it is then left up to the participants to find their way to the Standards. The provision would benefit from a clear
+statement instructing mediators to provide participants with a copy of the Standards. In this respect, the old PS is better –
+participants must be helped to get access to these Standards (compare s 3.2(d) of the new PS with s 3.6 of the old PS).
+Other provisions omitted from old PS s 3
+A number of other important provisions from s 3 of the old PS have been omitted. They are discussed in turn below.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 10
+The first sentence of s 3.1 of the old PS, which emphasised the diversity of mediation practice and the variety of ways in
+which mediation might come about, has been omitted. This is useful information for participants.
+Under s 3.2 of the old PS, participants had to be given an opportunity to agree about the way in which the mediation was
+conducted. This might extend to agreeing on procedural rules and the format of mediation (eg as to whether joint and
+separate sessions were used, or whether it should proceed as a shuttle mediation). This provision has been OMITTED. The
+participants have lost an opportunity to have input into the process.
+The new PS do not contain any provisions equivalent to s 3.4 of the old PS and as a result, several important provisions
+have been lost. They are:
+1. Section 3.4 required the mediator to “describe and explain the mediation process that is to be used”. This
+sounds as though the mediator had to explain his or her own particular approach rather than providing a
+general “description of mediation and the steps involved” (s 3.1(a) of the new PS).
+2. The mediator had to discuss the appropriateness of mediation, its benefits and risks, and the alternatives
+open to the particular participants in the particular circumstances. Again, this is more context specific than s
+3.2(a) of the new PS.
+3. Perhaps most important of all, s 3.4(c) of the old PS has not been reproduced in the new PS. This provision,
+which relates to confidentiality, is discussed further below.
+4. Mediators were required to “advise participants of the mediator's role in relation to the provision of advice
+or other services” (eg a mediator might say, “although I am a lawyer, my role is not to give you legal
+advice”).
+121
+Many mediators will be trained to deal with these matters as part of their opening statement and they will do so
+instinctively. However, this may not be the case with new mediators (or for some “old” mediators).
+The new PS do not have a provision equivalent to s 3.5 of the old PS. Section 3.5 encouraged the participants to reduce
+their agreement to mediate and their agreement regarding confidentiality (or its waiver) to writing. This is a matter of
+good practice and it is difficult to understand why the provision has been omitted. It is not enough simply to explain to
+participants the nature and content of such agreements should they happen to have entered into them (see s 3.2(b) of the
+new PS).
+New PS
+4 Conducting mediation: The mediation meeting
+4.1: According to this provision, the mediation meeting will ordinarily include a joint session “in which the participants
+communicate directly with each other”; it may also include separate sessions and shuttle negotiations.
+4.2: The mediation may be conducted over multiple meetings.
+4.3: The mediation may conclude whether or not an agreement is reached.
+Commentary: s 4 Conducting mediation: The mediation meeting
+New PS s 4
+The old PS did not have a section headed “conducting the mediation meeting”. There was information provided about the
+procedural aspects and stages of mediation (eg in s 3.4(h), which talked about separate sessions, and s 9 which concerned
+procedural fairness), but the PS have been improved with the creation of a separate and discrete section on this stage of the
+mediation.
+The assumption underlying s 4 of the new PS is that the participants have been given more detailed information as required
+under s 3.1(a) of the new PS. If this has not already occurred, then s 4 may cause participants some concerns. They are
+not likely to be familiar with the terms “separate sessions” and “shuttle negotiations”, unless they have used mediation
+before. The terms are not defined either in s 3.1(a) or s 4 of the new PS. Even the expression “joint session” may cause
+some concern, especially if hostile parties (or an easily intimidated party) are under the impression that they have to
+talk directly to each other. These terms need to be defined and described in such a way that the parties have a good idea
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 11
+of what “usually” transpires in the various sessions (the old PS did not deal with these concepts either). Of course, it is
+difficult to pin down the “usual” practises in mediation. The wording of s 3.4(h) of the old PS is helpful. It provided that
+the mediator should “discuss with or inform the participants about the procedures and practices in the mediation, such as:
+(i) the circumstances under which separate sessions may be held”. This allows for the possibility that no separate sessions
+will be held or at the other extreme, that the entire mediation will be conducted as a shuttle mediation.
+122
+New PS
+5 Conducting mediation: Suspending or terminating
+5.1: “A mediator may suspend or terminate the mediation if they form the view that mediation is no longer suitable
+or productive”, eg where a participant: (a) “is unable or unwilling to participate or continue in the mediation”; (b) “is
+misusing the mediation”; or (c) is “not engaging in the mediation in good faith”. It may also be suspended if (d) “the safety
+of one or more participants may be at risk”.
+5.2: Mediators should advise of their intention to suspend or terminate.
+5.3: Mediators should encourage the participants to consider alternative dispute resolution procedures.
+Old PS
+11 Termination of the mediation process
+Statement of principle: “The mediator may suspend or terminate a mediation process if continuation of the process might
+harm or prejudice one or more of the participants”. Although the word “prejudice” no longer appears, the terms of s 5 of
+the new PS are wide enough to cover this situation, as well as the other circumstances contemplated by this statement of
+principle.11.1: “Mediators should be alert to situations where parties or their advisers seek to misuse the mediation process
+to achieve other ends” such as delaying or prolonging litigation, or where the mediator is of the opinion that one or more of
+the participants is “acting in bad faith”. OMITTED
+11.2: This was a general provision under which a mediator could suspend or terminate the process if the process was, in
+the mediator's opinion, being used “for a purpose other than a mutual attempt to arrive at resolution or its usefulness has in
+some other way been exhausted” (OMITTED) where possible a mediator should provide reasonable notice to participants
+of their intention to suspend or terminate.
+11.3: “The mediator may withdraw from the mediation process when any agreement is being reached by the participants
+that the mediator believes is unconscionable” (OMITTED). The section also provided that the mediator should assist the
+parties to assess further process options in taking the matter forward. This provision is similar to s 5.3 of the new PS.
+Commentary: s 5 Conducting mediation: Suspending or terminating
+New PS s 5
+Under the old PS, the topic of suspension or termination of the mediation was dealt with in s 11. Although there is some
+difference in the wording, the essence of the statement of principle from s 11 and most of ss 11.1 and 11.2 of the old PS
+have been retained in s 5.1 of the new PS. The terms of s 5.1 are sufficiently general to allow mediators to terminate
+or suspend the mediation whenever they are of the view that continuation might “harm or prejudice one or more of the
+participants”, or one or more of the participants is acting in bad faith or otherwise misusing the mediation or the usefulness
+of mediation has been exhausted.
+Section 5.1 does not tell mediators to be alert to situations where a participant seeks “to misuse the mediation process” (see
+s 11.1) but this is surely a precursor to a mediator suspending or terminating the mediation under s 5.1 of the new PS.
+123
+Like the original, the new provision does not define the term “good faith” (or its absence, ie “bad faith”). Historically,
+these terms have been difficult to define, although some common themes of what it means to act in good faith (or bad
+faith) have been discerned. There appears to be wide agreement that good faith includes some preparation, attendance
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 12
+at the mediation by someone with authority to settle, and some elements of participation such as “not summarily and
+without consideration” 25 immediately rejecting what the other party has to say. Some guidance on behaviour which is
+not inconsistent with good faith in mediation is also available from cases 26 and commentaries 27 from Australia and
+overseas. Good faith does not require a party to act against self-interest and it does not require a party to take “any step
+to advance the interests of the other party”. 28 It does not preclude a party from taking a strong position at the outset and
+from being reluctant to make concessions. 29 Good faith does not require the parties to engage in total disclosure. 30 There
+is no requirement to reveal all of one's interests, negotiation goals and bottom lines. A lawyer cannot, however, mislead
+the mediator or his or her opponent about a material fact, for it is recognised that such action (or inaction, where a false
+statement needs to be corrected) constitutes bad faith. 31
+Bad faith behaviour also includes use of mediation “solely” to delay litigation (or to burden the opposing party) or to
+secure discovery.32 Ultimately, decisions about whether or not a participant has acted in good faith or bad faith will turn
+on a combination of factors set in the context of each individual case.There is one major difference between s 11 of the
+old PS and s 5 of the new PS. Section 11.3 of the old PS allowed a mediator to withdraw when he or she believed any
+agreement being reached was unconscionable. While this provision has been omitted from the new PS, the terms of s 5.1
+of the new PS are wide enough to allow mediators to terminate the mediation if they are concerned on this point, for surely
+the mediation would be “no longer suitable or productive” (emphasis added) in these circumstances.Under s 5.3 (and
+previously s 11.3), the mediator can help the parties assess their dispute resolution options if the mediation does not end in
+agreement.
+124
+New PS
+6 Power and safety
+6.1: “A mediator must be alert to changing balances of power in mediation and manage the mediation accordingly”.
+6.2: “A mediator must consider the safety and comfort of participants”. The section then provides a list of interventions
+that mediators may take, such as agreeing on behavioural guidelines, putting in place and activating security protocols,
+using separate sessions or other communication technology, “having a participant's friend, representative or professional
+advisor attend”, and suspending or terminating the mediation.
+Old PS
+4 Power issues
+Statement of principle: “Mediators shall have completed training that assists them to recognise power imbalance and
+issues related to control and intimidation and take appropriate steps to manage the mediation process accordingly.”
+OMITTED4.1: “Some disputes may not be appropriate for mediation processes because of power imbalance, safety,
+control and/or intimidation issues”. OMITTED
+4.2: Set out various measures that mediators might take to ensure the safety of participants whenever “abuse is present, or
+implied or threatened”. The measures are much the same as those now appearing in s 6.2 of the new PS.
+Commentary: s 6 Power and safety
+New PS s 6.1
+In order to better understand s 6 of the new PS, regard must first be had to s 10 which sets out the knowledge and skills
+required of mediators. According to s 10.1, mediators must be knowledgeable in the dynamics of power (s 10.1(a)(i))
+and they must have the ability to manage high emotions and power imbalances (s 10.1(b)(vi)). These provisions are not
+exhaustive. For example, mediators might also be trained to identify possible source/s of power imbalance.
+Section 6.1 then comes into play. The section is deficient in two respects. First, the section should remind mediators
+that not all disputes are appropriate for mediation because of issues relating to power and the safety of participants (the
+statement which was included in s 4.1 of the old PS, which has been omitted, should be replaced). The majority of the
+provisions in s 6 assume that mediation has commenced. The very first provision in s 6 should remind mediators that some
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 13
+disputes are not appropriate for mediation because of power disparity and that mediation should not be commenced in
+these cases.
+Second, s 6.1 suggests that a mediator need only be alert to changing balances of power and not to pre-existing imbalances
+of power. Mediators need to be alert to power disparity from the very beginning.
+125
+Section 6.2 is adequate. However, there are no strategies offered to deal with two very common sources of power
+imbalance: 1) when one party has access to more/better information and advice; and 2) when one party has access to
+greater financial resources (the two power sources will often overlap). Mediators can provide participants with information
+about other services and resources but this is of limited use in many circumstances. They cannot provide missing
+information themselves without jeopardising their impartiality. Ultimately, a mediator may have no choice but to suspend
+or terminate the mediation.
+Other provision omitted from old PS s 4
+The statement of principle from s 4 of the old PS has been omitted. Since the training requirements (including training to
+recognise and handle power imbalances) are canvassed in the separate NMAS Approval Standards, this omission does not
+seem problematic.
+New PS
+7 Procedural fairness and impartiality
+7.1: “A mediator must conduct the mediation in a fair, equitable and impartial way, without favouritism or bias in act or
+omission” (cf statement of principle from ss 5, 5.1 and statement of principle from s 9 of the old PS).
+7.2: “A mediator must identify and disclose any potential grounds of bias or conflict of interest before the mediation, or
+that emerge at any time during the process” (emphasis added) (cf ss 5.1 and 5.2 of the old PS).
+7.3: “A mediator must not mediate in cases involving a conflict of interest without the informed consent of the
+participants”, and then only if the mediator believes that the conflict will not impair his or her impartial conduct of the
+mediation (cf s 5.1 of the old PS).
+7.4: “A mediator must support participants to reach agreements freely, voluntarily, without undue influence and on the
+basis of informed consent” (cf s 9.1 of the old PS).
+7.5: “A mediator must provide participants appropriate opportunities to speak to and be heard by one another in the
+mediation, and to articulate their respective interests, issues and underlying needs” (cf s 9.2 of the old PS).
+7.6: “A mediator must ensure, as far as practicable, that participants have had sufficient time and opportunity to access
+sources of advice or information necessary for their decision-making” (cf s 9.5 of the old PS).
+7.7: “A mediator must encourage and support negotiations that focus on the participants' respective interests, issues and
+underlying needs and must encourage participants to assess any proposed agreements accordingly and with reference to
+their long-term viability” (the closest point of comparison is ss 9.4 and 9.7 of the old PS).
+126
+Old PS
+Section 7 of the new PS draws on ss 5 and 9 of the old PS.
+5 Impartial and ethical practice
+Statement of principle: “A mediator must conduct the dispute resolution process in an impartial manner and adhere to
+ethical standards of practice”. Some of this provision has been taken up in s 7.1 of the new PS.5.1: Defined “impartiality”
+to mean “freedom from favouritism or bias either in word or action, or the omission of word or action, that might give
+the appearance of such favouritism or bias.” OMITTED but see s 7.1 of the new PS.Further s 5.1 required mediators to
+disclose actual and potential grounds of bias and conflicts of interest. It also provided that mediators could continue the
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 14
+mediation with “an informed waiver” by the parties and if the mediator was of the view that his or her impartiality was not
+impaired (cf ss 7.2 - 7.3 of the new PS).
+5.2: “A mediator should identify and disclose any potential grounds of bias or conflict of interest that emerge at any time in
+the process”. They should take reasonable steps to minimise the chances of being in a position of potential bias or conflict.
+If there is a potential conflict, mediators should disclose it as soon as possible and preferably before mediation commences.
+OMITTED but see s 7.2 of the new PS.
+5.3: “A mediator should avoid conflicts of interest, or potential grounds for bias or the perception of a conflict of interest,
+in recommending the services of other professionals”. Where possible, the mediator should provide several alternatives if
+recommending referrals to other practitioners and services (cf s 8.5 of the new PS). OMITTED
+For discussion about ss 5.4 - 5.7 of the old PS, see the discussion on ss 8.2 - 8.3 of the new PS.
+9 Procedural fairness
+Statement of principle: “A mediator will conduct the mediation process in a procedurally fair manner”. OMITTED but see
+s 7.1 of the new PS.
+9.1: “A mediator will support the participants to reach any agreement freely, voluntarily, without undue influence, and on
+the basis of informed consent” (cf s 7.4 of the new PS).
+9.2: “The mediator will provide each participant with an opportunity to speak and to be heard in the mediation, and to
+articulate his or her own needs, interests and concerns” (cf s 7.5 of the new PS).
+9.3: This section dealt with the situation where a party was unable or unwilling to continue. A similar provision can be
+found in s 5.1(a) of the new PS.
+9.4: “The mediator should encourage and support balanced negotiations and should understand how manipulative or
+intimidating negotiating tactics can be employed by participants”. OMITTED
+9.5: The mediator must ensure participants “have sufficient time and opportunity to access sources of advice or
+information” in certain circumstances such as where it appears that “a participant needs either additional information or
+assistance” (see s 7.6 of the new PS).
+For s 9.6, see ss 3.2(f) and 8.5 of the new PS.
+9.7: “It is a fundamental principle of the mediation process that competent and informed participants can reach an
+agreement which may differ from litigated outcomes. The mediator, however, has a duty to support the participants in
+assessing the feasibility and practicality of any proposed agreement in both the long and short term, in accordance with
+the participant's own subjective criteria of fairness, taking cultural differences and where appropriate, the interests of any
+vulnerable stakeholders into account”. OMITTED although some elements are taken up in s 7.7 of the new PS.
+9.8: “The primary responsibility for the resolution of a dispute rests with the participants. The mediator will not pressure
+participants into an agreement or make a substantive decision on behalf of any participant”. OMITTED
+127
+Commentary: s 7 Procedural fairness and impartiality
+New PS s 7.1
+Mediators have long had a duty to conduct mediation in an impartial manner. 33 To meet this requirement, mediators
+generally introduce themselves in an equal manner, perform equal non-verbals such as handshaking, address the parties in
+a similar manner, sit an equal distance from each party, maintain equal eye contact, give each of the parties equal air time
+and so on. If a mediator becomes aware that he or she is starting to dislike a party and/or that party's attitudes, to the extent
+that it is interfering with the mediator's conduct of the mediation, most mediators would not continue with the mediation.
+As a result of s 7.1 of the new PS, mediators now have an obligation to conduct mediation in a way which is also “fair” and
+“equitable”. The concepts of fairness and equity are not new. The statement of principle from s 9 of the old PS required
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 15
+mediators to conduct the mediation process in a procedurally fair manner. Additionally one of the competences required of
+mediators under s 7.3(c) of the old PS was an ethical understanding in relation to (vi) “Supporting fairness and equity in
+mediation”. A similar phrase has been retained in the list of ethical principles in s 10.1(c)(v) of the new PS.
+Neither “fairness” nor “equity” have been defined in either the old or the new PS. It is suggested that the obligations
+arising from s 7.1 relate to procedural aspects of mediation, and not to the outcome of mediation. Support for this
+conclusion can be found in the statement of principle from s 5 and from the terms of s 5 of the old PS which relate to the
+manner in which mediation is conducted; and from the heading and statement of principle from s 9 of the old PS – in fact
+almost every sub-section of s 9 spoke to the mediator's responsibility to conduct mediation “in a procedurally fair manner”.
+The same can be said of s 7 of the new PS: the section is headed “procedural fairness” (not outcome fairness), and the
+obligations imposed by the section all relate to the manner in which mediation is conducted. 34 Mediators discharge their
+obligations in relation to process fairness by, for example, ensuring that participants have an opportunity to speak and to be
+heard; to obtain “independent professional advice or information” when needed; to take part in “balanced” negotiations in
+which each participant has been treated in an even-handed and respectful manner.
+There are some drafting problems in s 7.1. It incorporates only a partial definition of “impartial”, ie “without favouritism or
+bias in act or omission”. Two elements are missing from the definition:
+1. It does not include and thus prohibit bias by “word”, only bias by “action” (or omission).
+2. It does not extend to “a perception of bias”.
+Ideally these elements of the definition of “impartial” would be added to s 7.1.
+128
+New PS s 7.2
+There is a gap in s 7.2. It only imposes on the mediator an obligation to disclose potential grounds of bias or conflict of
+interest, and not actual grounds of bias or conflict. The drafters may have thought that: if potential for bias or conflict has
+to be revealed and dealt with in accordance with the provision, then a situation of actual bias or conflict not sanctioned by
+the parties, will not arise (this is the “nip it in the bud early” idea). This is an unrealistic assumption. There might be an
+actual ground of bias or conflict in existence before the mediator ever has contact with the participants. The conflict might
+come under s 7.3 (see below) but not the bias. This is a situation that could fall through the gap. The preferred alternative is
+to amend s 7.2 to include actual biases and conflicts.
+New PS s 7.3
+Section 7.3 of the new PS is similar to s 5.1 of the old PS, setting out the circumstances in which a mediator can continue
+to mediate, despite a bias or conflict, or a potential for one. At least, that seems to be the intention of the section. However,
+it currently only addresses situations involving a conflict of interest. It should be expanded to also cover situations
+involving a bias.
+At present, s 7.2 does not cover actual grounds of bias or conflict, only potential ones; s 7.3 does not deal with situations of
+bias, only with a conflict of interest. Neither section allows for perceptions of conflict or bias.
+New PS s 7.4
+Section 7.4 of the new PS is one of the most important provisions in the Standards. 35 It replaces s 9.1 of the old PS. The
+old and new provisions (see s 9.1 and s 7.4 respectively) are almost identical except that “will” (old PS) has become a
+“must” (new PS). This provision is now prescriptive in its format. It provides: “A mediator must support participants to
+reach agreements freely, voluntarily, without undue influence and on the basis of informed consent”. Unfortunately, none
+of the important terms in this provision are defined in either set of Standards. As mentioned earlier, the concept of self-
+determination is not explained fully either. Resort might be had to the work of scholars such as Welch and Nolan-Haley to
+fill the gaps. The essential elements of self-determination are: 36
+• Active and direct participation by the parties in the process of communication and negotiation.
+• Informed consent on the part of the parties as to both process and outcome. The parties must have sufficient
+information (including information as to the available alternatives to an offered settlement) to make an informed
+decision.
+• V oluntariness by the parties in coming to a decision. (The idea that the parties must enter into mediation voluntarily
+has long been dismissed).
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 16
+• Absence of coercion on the parties in coming to a decision. The parties must retain the ability to accept or reject any
+particular outcome. 37
+New PS s 7.5
+Again, s 7.5 of the new PS is almost identical to s 9.2 of the old PS except that the “will” has become a “must”.
+Participants must be given “appropriate opportunities to speak to and be heard by one another” and to articulate their
+needs, interests and issues. A mediator cannot guarantee that one participant will “hear” the other in the true sense of the
+term but the mediator can create an environment and establish ground rules which will maximise the possibility of the
+participants hearing, listening to and understanding each other. Mediators usually set three behavioural guidelines for the
+conduct of mediation. These are that the parties do not interrupt each other, do not denigrate each other, and treat each
+other in a respectful manner. 38 Most mediators will intervene to correct inappropriate behaviour on the part of participants
+such as: attempting to cross-examine or interrogate their opponent; not allowing their opponent to speak freely; making
+threats; or putting their opponent down, eg by name-calling.
+129
+New PS s 7.6
+The provision in s 7.6 (and its equivalent in s 9.5 of the old PS) is laudable – a mediator must ensure that participants have
+“sufficient time and opportunity” to access advice or information “necessary for their decision-making” (emphasis added).
+This is a necessary part of ensuring informed consent by the parties. However, if a participant does not have the means,
+ability, financial resources etc required to gain access to and understand the advice or information, that participant will not
+be in a position to make a fully informed decision. Mediators will be faced with an ethical dilemma (one which should
+be highlighted by the Standards): should they let a party enter into an agreement without all the necessary information
+(thus putting at risk or undermining the value of self-determination) or provide them with the missing information (thus
+compromising the value of impartiality)?
+New PS s 7.7
+Section 7.7 consists of two parts. First, it imposes on mediators an obligation to encourage and support interest-based
+negotiation between the participants. There is, it is suggested, a procedural bias towards interest-based negotiations.
+This bias is of long standing. 39 It is not problematic as long as mediators understand that there are other approaches
+to negotiation and in fact, research suggests that positional or distributive negotiation exists to some extent in most
+negotiations. 40 Mediators need to be trained in the theory and practices of both approaches; they must be skilled in
+responding to both approaches.
+The second part of s 7.7 of the new PS imposes an obligation on mediators to assist the participants to assess any proposed
+agreement by reference to two criteria: (i) by how well it satisfies the interests, issues and needs of the participants; and (ii)
+on the basis of long-term viability. There are other criteria which should be taken into account, as discussed next.
+Provisions omitted from old PS ss 5 and 9
+There are some provisions from s 5.2 of the old PS, such as the requirement to minimise the risk of bias or conflict
+occurring, which ideally should be included in the Standards.
+There are, it is suggested, three other omissions from section 7:
+1. As mentioned earlier, the opening sentence of s 9.7 of the old PS is critical. It states: “It is a fundamental
+principle of the mediation process that competent and informed participants can reach an agreement
+which may differ from litigated outcomes”. It is the essence of mediation in many ways and reflects
+important mediation values: self-determination, autonomy, informed consent, the potential for participants
+in mediation to arrive at decisions that may be different from court outcomes.
+130
+2. Section 9.7 of the old PS mentioned several other criteria for assessing proposed agreements: short term
+viability; “the participant's own subjective criteria of fairness”, taking into account cultural differences;
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 17
+and the interests of vulnerable stakeholders. These are important criteria for assessing durability, outcome
+fairness and what Fisher and Ury called a “wise agreement”, ie one which takes community standards into
+account. 41 These criteria should be included in the PS.
+3. The third omission is from s 9.4 of the old PS. It imposed on mediators an obligation to “encourage and
+support balanced negotiations”. This sentence has been omitted from the new PS. While the expression
+“balanced negotiations” is open to debate, it is the mediator's role to create an environment conducive to
+structured negotiations in which each participant has an equal opportunity to express their concerns and
+issues, to voice their ideas (or options) for resolution of the dispute, and to participate in the give and take of
+negotiations. Section 7.5 of the new PS goes part-way to articulating the mediator's responsibilities in regard
+to negotiations, as does s 7.7. However, s 7 could be improved by adding to s 7.5 or s 7.7 those portions of
+ss 9.4 and 9.7 of the old PS.
+Section 9.8 of the old PS is also an important provision which has been almost entirely omitted from the new PS. Sections
+9.7 and 9.8 not only raise several values of mediation (eg self-determination and outcome fairness), they also speak to
+the relationship between those values. Self-determination is the central value underpinning mediation, and participants,
+providing they are fully informed, are free to arrive at a decision which is different from the decision a judge may have
+imposed.
+131
+New PS
+8 Ethical conduct and professional relations
+8.1: “A mediator must mediate only where they have the competence to do so” (emphasis added) (cf s 7.3 of the old
+PS).8.2: “A mediator must not use information obtained in mediation for personal gain or advantage” (cf s 5.4 of the old
+PS).8.3: “A mediator must adhere to the ethical code or standards prescribed by the professional organisation or association
+of which they are a member or by whom they are employed” (cf s 5.7 of the old PS).8.4: “A mediator should encourage
+participants to consider the interests of any vulnerable stakeholders”.8.5: “A mediator should encourage participants
+to obtain other professional support when appropriate but should refrain from recommending the services of particular
+individuals or firms” (see ss 5.3 and 9.6 of the old PS).8.6: “A mediator may liaise with other relevant professionals with
+permission from the relevant participant” (see s 6.6 of the old PS, which deals with confidentiality and its exceptions).8.7:
+“A mediator should extend professional courtesy to other professionals engaged by the participants” (see s 8 of the old
+PS).8.8: “A mediator should, where possible, engage in professional debriefing, peer consultation and mentoring of less
+experienced mediators” (cf ss 7.1 and 7.2 of the old PS).
+Old PS
+Section 8 of the new PS draws on ss 5-9 of the old PS.
+5 Impartial and ethical practice
+5.1: Mediators must avoid a conflict of interest or possible bias in recommending the services of other professionals.
+Where possible, the mediator should provide several alternatives (see ss 3.2(f) and 8.5 of the new PS).
+5.2: Prohibited a mediator from using information “about participants” for personal gain (see s 8.2 of the new PS).
+5.3: Provided that “mediators should adhere to … the code of conduct or ethical standards prescribed by the organisation of
+which they are members” (see s 8.3 of the new PS).
+7 Competence
+Statement of principle: “Mediators must be competent and have relevant skills and knowledge”. Although the statement of
+principle has been omitted, its content has been incorporated into ss 8.1 and 10.1 of the new PS.
+7.1 and 7.2: The essence of these two sections, which deal with debriefing and continuing professional development, has
+been amalgamated into s 8.8 of the new PS.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 18
+7.3: “Mediators should be competent and have the capacity to apply knowledge, skills and an ethical understanding and
+commitment in the areas listed below” (cf ss 8.1 and 10.1 of the new PS).
+132
+8 Inter-professional relations
+Statement of principle: “Mediators should respect the relationships with professional advisers, other mediators and experts
+which complement their practice of mediation”. OMITTED
+8.1: Mediators should “promote cooperation with other professionals and encourage clients to use other professional
+resources when appropriate” (cf 8.7 of the new PS). The underlined portion has been OMITTED.8.2: This section
+contemplated the situation where there was more than one dispute resolution process being used for a particular dispute
+and encouraged mediators to keep themselves informed and to inform other professionals about the processes taking place.
+9 Procedural fairness
+9.6: This section provided that participants should be encouraged “to obtain independent professional advice or
+information” where appropriate but, in accordance with s 5.3, the mediator should provide several alternatives in
+recommending referrals to avoid a conflict of interest or bias or the potential for such (cf ss 3.2(f) and 8.5 of the new PS).
+Commentary: s 8 Ethical conduct and professional relations
+New PS s 8
+Section 8 of the new PS is somewhat of a grab-bag of provisions taken from ss 5-9 of the old PS.
+New PS s 8.1
+Mediators owe the participants a duty of competence. A “duty of competence” may be defined in a general way as a duty
+to apply and integrate knowledge, skills, values and attitudes in such a way as to effectively perform the tasks required of a
+mediator. 42
+New PS s 8.2
+The wording of s 8.2 of the new PS (prohibiting use of information obtained in mediation for personal gain) is wider than
+that used in s 5.4 of the old PS (prohibiting use of information “about participants”) and is to be preferred.
+New PS s 8.3
+Many mediators are members of a primary profession, eg they are lawyers, social workers, counsellors, engineers and
+so on. Section 8.3 (and s 5.7 of the old PS) means, for example, that a lawyer mediator must comply with the solicitors'
+or barristers' rules of professional conduct, as relevant. It suggests that those professional conduct rules are to prevail in
+the event of conflict with the PS (how else can the lawyer “adhere” to them) but it would be preferable if s 8.3 made this
+explicit. 43
+New PS s 8.4
+Section 8.4 of the new PS provides a rare mention of the interests of other stakeholders. Some commentators argue that
+more weight should be given to the interests of persons who are not parties to the mediation but are nonetheless affected by
+its outcome. 44 There is no consensus on this matter at the current time, although some insights can be gained from relevant
+literature. 45
+133
+New PS s 8.5
+Some commentators have expressed concern over s 8.5 of the new PS for it appears to preclude a mediator from making
+any recommendations about the use of other named service providers. Section 5.3 of the old PS allowed mediators to
+recommend specific service providers so long as several alternatives were given. One might argue that if the mediator
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 19
+gives the participants a list of several service providers, he or she is not actually recommending “the services of particular
+individuals or firms” such that the practice permitted under s 5.3 could continue under the new s 8.5. However, it would be
+preferable if the matter was clarified.
+New PS s 8.6
+The closest provision to s 8.6 of the new PS is that of s 6.6 of the old PS which enabled the mediator, with the participants'
+consent, to discuss the mediation process with the participants' lawyers and other expert advisers where those advisers
+had not attended the mediation. Clearly this provision has implications for the confidentiality of the mediation – hence its
+location under the provisions on confidentiality in the old PS. The language of the new provision is a little vague, eg what
+does “liaise” mean? What can the mediator “liaise” about? These gaps could be filled in by the drafters.
+New PS s 8.7
+The old PS had a separate section dealing with “Inter-professional relations” (s 8). Section 8.1 was very general, providing
+that mediators “should promote cooperation with other professionals”. The term “cooperation” was not defined and
+its meaning is debatable. Some common threads of what it means to cooperate can be gleaned from legislation which
+now regulates the pre-action conduct of the parties and their advisers. For instance, s 4 of the Civil Dispute Resolution
+Act 2011 (Cth) provides examples of steps “that could be taken by a person as part of taking genuine steps to resolve a
+dispute”. 46 They include notifying the other person of the issues that are, or may be, in dispute and offering to discuss
+them, with a view to resolving the dispute; providing relevant information and documents to the other person; agreeing
+on a particular person to facilitate the process; attending the process, and attempting to negotiate. Whatever the term
+meant, it was a duty which extended to, eg judicial registrars and court/tribunal staff, all of whom might be regarded as
+“professionals”.
+The duty imposed by s 8.7 of the new PS, that of “professional courtesy”, only applies to “professionals engaged by the
+participants”. It is a limited duty and it applies to a very limited group of persons. Courtesy is not defined in the PS but it is
+not a new concept for lawyers who owe duties of fairness and courtesy to everyone with whom they engage in the course
+of legal practice. 47 It may be that the courts would treat the concept as one which depended on the specific circumstances
+of each case. 48 In the future, this area (ie relationships with other professionals), should be extended, eg to cover court and
+tribunal staff, and some idea of what “courtesy” might entail could be added.
+134
+New PS
+9 Confidentiality
+9.1: “A mediator must respect the agreed confidentiality arrangements relating to participants and to information provided
+during the mediation, except:”
+(a) “with the consent of the participant” to whom the duty is owed; or
+(b) where the information, which will be non-identifying, is required for research, supervisory or educational
+purposes; or
+(c) “when required to do otherwise by law”;
+(d) where “permitted to do otherwise by ethical guidelines or obligations”;
+(e) where “reasonably considered necessary to do otherwise to prevent an actual or potential threat to human
+life or safety” (cf s 6.1 of the old PS).
+9.2: Before holding separate sessions, the mediator “must inform participants of the confidentiality which applies to these
+sessions” (cf s 6.4 of the old PS).
+9.3: This section enables the mediator to discuss the mediation and any proposed agreement with a participant's advisors or
+with third parties, with the participant's consent (cf ss 6.6 and 6.7 of the old PS).
+9.4: Mediators are not required to retain documentation from the mediation (cf s 6.8 of the old PS).
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 20
+9.5: Mediators must take care to preserve confidentiality when storing and disposing of documents used or created at the
+mediation (cf 6.8 of the old PS).
+Old PS
+6 Confidentiality
+Statement of principle: “A mediator should respect the confidentiality of the participants”. OMITTED 6.1: “A mediator
+shall not voluntarily disclose to anyone who is not a party to the mediation any information obtained except” … in four
+specified circumstances (which are much the same as those provided in s 9.1 of the new PS), including: “(d) where
+permitted by existing ethical guidelines or requirements and the information discloses an actual or potential threat to
+human life or safety” (emphasis added) (cf s 9.1 of the new PS). The underlined portion has been omitted.6.2: Mediators
+had to clarify “the participants' expectations of confidentiality” before the mediation process commenced. OMITTED
+from s 9 but see s 3.2(b) of the new PS. The section also provided that any written mediation agreement should include
+provisions concerning confidentiality. OMITTED
+6.3: Mediators had to inform participants of the limitations of confidentiality before the mediation commenced (the
+Standard recognised that the limitations might be statutory, judicially or ethically mandated). OMITTED
+6.4: If the mediator held separate sessions with a participant, the obligations of confidentiality regarding these sessions had
+to be discussed and agreed upon before the sessions commenced (cf s 9.2 of the new PS). OMITTED
+6.5: The essence of this provision was that mediators should not give evidence without an order of the court or tribunal
+if the mediator reasonably believed that doing so would violate an obligation of confidentiality (and should inform
+participants of the situation as soon as practicable). OMITTED
+6.6: Enabled mediators to discuss the mediation process with the participants' advisers with the participants' consent (cf s
+9.3 of the new PS).
+6.7: Enabled mediators to disclose the substance of any proposed agreement with the participants' respective advisers with
+the permission of the participants (see s 9.3 of the new PS).
+6.8: Mediators had to maintain confidentiality in storing and disposing of records of the mediation. Mediators were not
+required to retain documents (see ss 9.4 and 9.5 of the new PS).
+135
+Commentary: 9 Confidentiality
+New PS s 9
+There are two aspects to confidentiality in mediation, the duty owed by the parties to each other and the duty owed by the
+mediator to the parties. In each case, the duty may arise by virtue of an agreement to mediate, or a separate confidentiality
+agreement, and/or by legislation (see eg the obligations imposed by ss 53 – 54 of Civil Proceedings Act 2011 (Qld)). The
+PS can only directly address the duty owed by the mediator to the parties (a duty of confidentiality as between the parties
+cannot be imposed by the Standards). Section 6.1 of the old PS did impose a duty of confidentiality on the mediator,
+prohibiting voluntary disclosure by the mediator of any information obtained in connection with the mediation except in
+four instances. This provision should have been retained in the new PS.
+There is a significant shift in the new PS – s 9.1 does not impose a duty of confidentiality on the mediator but rather,
+imposes on the mediator a duty to “respect the agreed confidentiality arrangements” entered into by the parties. It does
+not, of itself, impose a duty of confidentiality on the mediator. And in fact the provisions in s 9 assume a pre-existing
+confidentiality agreement between the parties. It is natural then to expect that the mediator might have a duty to encourage
+the parties to agree on this issue at a preliminary conference if they have not already done so. Unfortunately this is not the
+case. Section 3.2(b) also assumes a pre-existing mediation and confidentiality agreement. If there is an agreement, s 9.1
+imposes a duty on the mediator to respect it.
+As to the exceptions to confidentiality, the new PS has wisely separated s 6.1(d) into two grounds of exception to
+confidentiality (cf ss 9.1(d) and (e)). However, there is a drafting problem with the list of exceptions to confidentiality.
+The first three (in s 9.1(a), 9.1(b) and 9.1(c)) are connected by the word “or” so that they may be considered separate
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 21
+circumstances where the requirements of confidentiality can be waived, but the last three exceptions (in 9.1(c), 9.1(d) and
+9.1(e)) are not connected at all either by the word “or” or the word “and” so that it is difficult to determine whether they are
+to be considered separate grounds. It is likely that they are intended as discrete grounds but the matter needs to be clarified.
+There is another potentially serious gap that has opened up in the new provisions regarding confidentiality. Sections
+6.2 and 6.3 of the old PS have been omitted. These sections imposed on mediators a duty to clarify the participants'
+expectations of confidentiality and to inform them about the limitations of confidentiality. Under the new PS, someone –
+who need not be the mediator – must explain to the parties during an intake session or preliminary conference “the nature
+and content of any agreement or requirement to enter into mediation including confidentiality, costs and how they are to
+be paid” (s 3.2(b) of the new PS). There is no mention of exceptions to confidentiality at this point. The person conducting
+the intake or preliminary session may not mention the exceptions, a state of affairs which may be unknown to the mediator.
+The mediator no longer has an obligation to inform the participants about confidentiality (and its exceptions) before or
+during the mediation process – other than to inform them about the confidentiality that applies if separate sessions are held
+(s 9.2).
+There is another minor change of note: s 6.4 of the old PS appeared to give participants the opportunity to discuss and
+agree upon the obligation of confidentiality attached to separate sessions. Section 9.2 of the new PS appears to give the
+mediator the power to decide on the issue. It is possible that a mediator might say “nothing will be confidential unless
+you tell me it is to be treated as confidential” or “the only thing that is confidential is this …” Given that one of the stated
+objectives of the PS is to achieve some level of consistency, it might have been better to regard everything said or done in a
+separate session as confidential subject to specified exceptions.
+136
+New PS
+10 Knowledge, skills and ethical principles
+10.1: A mediator, consistent with the Approval Standards, must have the knowledge and skills, and an understanding of the
+ethical principles, outlined below.
+Three separate lists are given, the first for knowledge, the second for skills and the third for ethical principles. The
+expression “including, but not limited to” is not used at the beginning of the lists (as it was in s 7.3 of the old PS).
+The areas of knowledge listed in s 10.1(a) are much the same as those listed in s 7.3(a). Of note, item (x) has been changed
+such that mediators are now required to have knowledge about “the law relevant to mediators and to the mediation
+process” (cf s 7.3(a)(x) which required mediators to have knowledge relating to: “The law of mediation on confidentiality,
+enforceability of mediated agreements and liability of mediators”). The terms of the new provision are wider.
+There have been some changes to the list of skills. Some have disappeared from the Standards, eg s 7.3(b)(vi) “Mediator
+interventions appropriate for standard difficulties in mediation” has been OMITTED. Others have been added, see eg
+s 10.1(b)(viii) “reality-testing proposed outcomes in light of participants' interests, issues, underlying needs and long-
+term viability”.10.1(c): lists the “ethical principles” with respect to which a mediator must have an “understanding”. The
+following are listed:
+(i) competence, integrity and accountability
+(ii) professional conduct
+(iii) self-determination
+(iv) informed consent
+(v) safety, procedural fairness and equity in mediation including withdrawing from or terminating the mediation
+process
+(vi) impartiality including the avoidance of conflicts of interest
+(vii) confidentiality privacy and reporting obligations
+(viii) honesty in the marketing and advertising of mediation and promotion of the mediator's practice.
+10.2: Where a mediator uses a blended process such as advisory or evaluative mediation or conciliation, which involves the
+provision of advice (emphasis added), the mediator must: obtain the consent of the participants; ensure that he or she has
+current knowledge and experience; hold relevant professional registration and indemnity insurance; and “ensure that the
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 22
+advice is provided in a manner that maintains and respects the principle of self-determination” (s 10.2(c) of the new PS, cf
+s 10.5 of the old PS).
+137
+Old PS
+Section 10 of the new PS draws on ss 7 and 10 of the old PS.
+7 Competence
+Statement of principle: “Mediators must be competent and have relevant skills and knowledge”. This wording has been
+absorbed into ss 8.1 and 10.1 of the new PS.
+As to the provisions in ss 7.1-7.2, see s 8.8 of the new PS.
+7.3: “Mediators should be competent and have the capacity to apply knowledge, skills and an ethical understanding
+and commitment in the areas listed below. Mediators demonstrate competence by showing that they have the requisite
+knowledge and skills and can apply them”. The section goes on to say that mediators are required to ensure “ongoing
+professional development is focused on achieving and maintaining competencies including (a) KNOWLEDGE in areas
+including, but not limited to … (b) SKILLS, including, but not limited to: … and (c) ETHICAL UNDERSTANDINGS in
+relation to …”The underlined portions have been OMITTED from s 7.3 of the old PS.Three separate lists were then given,
+dealing in turn with knowledge, skills, and ethical understandings. As mentioned above, there have been some minor
+changes in the lists of knowledge and skills. Section 7.3(c) provided that mediators should have an ethical understanding in
+relation to:
+(i) The avoidance of conflicts of interest.
+(ii) Marketing and advertising of mediation.
+(iii) Confidentiality, privacy and reporting obligations.
+(iv) Neutrality and impartiality.
+(v) Fiduciary obligations.
+(vi) Supporting fairness and equity in mediation.
+(vii) Withdrawal from and termination of the mediation process.
+Section 10 Information provided by the mediator
+Statement of principle: “The mediator has no advisory or determinative role in regard to the content of the matter being
+mediated or its outcome. The mediator can advise upon and determine the mediation process that is used.” OMITTED
+although the proviso to s 2.2 picks up on some of these points.10.1: “Consistent with the standards relating to impartiality
+and preserving participant self-determination, a mediator may, with the clearly informed consent of the participants,
+provide the participants with information that the mediator is qualified by training or experience to provide. Such
+information should be couched in general terms” (emphasis added). OMITTED10.2: “A mediator should only provide
+information within the limits of his or her qualifications and competence while conducting a mediation”.
+10.3: Mediators should not render assistance of a counselling nature “nor should they provide legal advice”. OMITTED
+10.4: “Where appropriate, for example, in some family, environmental and workplace disputes, the mediator has a
+responsibility to facilitate a discussion about the participants' awareness of the interests of others affected by the dispute,
+and by the proposed agreement, and to assist the participants to consider the separate and individual needs of other such
+persons” (emphasis added). OMITTED
+10.5: “If a mediator, upon request, uses a ‘blended process’ model, such as evaluative mediation or conciliation”, this
+process must be the subject of “clear consent” of the participants.
+138
+Commentary: s 10 Knowledge, skills and ethical principles
+New PS s 10.1
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 23
+This commentary focuses on the ethical aspects of mediation practice. Section 10.1 states that mediators must have
+“an understanding of the ethical principles” outlined in that section. Section 7.3 of the old PS used slightly different
+terminology, requiring mediators to have “an ethical understanding and commitment” in the listed areas. Although the
+difference may be slight, ideally mediators should understand and commit to the various ethical principles.
+Section 7.3 of the old PS emphasised that the lists of required competences were not exhaustive by using the terms
+“including” and “including, but not limited to”. While the last phrase sounds like legalese, it should be imported into
+the new PS. Without this phrase or something similar, the new PS gives the impression that the listed knowledge, skills
+and ethical principles are exhaustive when they cannot be, given that the PS are minimum standards and that no set of
+standards can capture all the ethical complexities of mediation.
+There are a number of significant changes to the list of ethical principles required of mediators. The most obvious change
+is that the reference to “neutrality” has been removed from the list of ethical principles. This is not a surprise and hardly
+ground-breaking for the concept of mediator neutrality has come under intense scrutiny in recent years 49 and reference
+to it has disappeared from popular definitions of mediation. 50 There is growing recognition that mediators cannot be
+neutral if “neutrality” is taken to mean disinterest in the outcome of a dispute and absence of influence over the outcome of
+mediation. 51
+The reference to “Fiduciary obligations” has also been deleted from the list of ethical principles. The debate on this
+issue continues, with some commentators claiming that it is only a matter of time before mediators are held to stand as
+fiduciaries in some respects. 52 Recently, some authors have argued that the ethical paradigm underpinning mediation
+should be changed from neutrality to one based on trust. 53 If this is the case, one would have expected the reference to
+fiduciary obligations to remain.
+Some concepts have been added to the list in s 10.1(c) of the new PS but for the most part, they are not new to mediation,
+eg mediators have always owed a duty of competence to the participants, and it makes sense to include “competence” as
+an ethical principle. Self-determination and informed consent, which have also been added to the list, are also familiar
+concepts in mediation. Self-determination is widely recognised as a central value of mediation. 54 Self-determination is
+only meaningful when it is coupled with informed consent of the participants. 55
+The “principles” listed in s 10.1(c) could be better formulated as statements about the duties or responsibilities of
+mediators, rather than as phrases such as “self-determination” or “informed consent”. Such statements might read as
+follows (this is not intended as an exhaustive account):
+• The process will be conducted by a mediator who is impartial and unbiased.
+• The process will be conducted in private. The mediator will keep confidential anything which is said and done in
+mediation, subject to specified exceptions.
+• The mediator has an obligation to the parties to encourage and promote decision-making by them (self-determination)
+on the basis of informed consent and without coercion. (The principle of voluntariness should be added to the list of
+principles.)
+• The mediator has an obligation to the parties to create a communication environment in which parties feel safe, and in
+which the mediator will ensure procedural fairness and equity. If the mediator cannot ensure fairness and equity, then
+he or she will withdraw from or terminate the mediation.
+• The mediator will conduct him or herself with integrity and professionalism.
+139
+Ideally the terms in s 10.1(c) might be defined and the extent of the mediator's duty explained. For instance:
+• What does “integrity” mean and how is it different from “honesty”?
+• What is a mediator accountable for and to whom is the mediator accountable? Is he or she accountable for harm
+caused to a third party who is not a party to the mediation?
+• What does “professional conduct” mean?
+• What is meant by self-determination?
+• What is the mediator's duty as regards self-determination?
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 24
+• What does informed consent mean and what must participants be informed about, eg alternatives to settlement, likely
+outcome if a matter proceeds to litigation, consequences of the agreed outcome?
+• Does a mediator have an obligation to be honest and if so, honest in relation to what? Who is the obligation owed to?
+New PS s 10.2
+Section 10.2 deals with the topic of information provided by the mediator and blended processes (the old PS contained
+a separate section dealing with “information” provided by the mediator, see s 10). Section 10.2 needs to be read with
+the proviso to s 2.2. The proviso reads, “[a] mediator does not evaluate or advise on the merits of, or determine the
+outcome of, disputes”. There is a footnote in the proviso which refers the reader to s 10.2. This section briefly describes a
+blended process as one which involves the “provision of advice” from the mediator (emphasis added). The section allows
+a mediator to conduct a blended process when the requirements of the section – which are more extensive than those
+required under the old PS, have been satisfied. The requirements are: participants' consent; appropriate qualifications and
+professional indemnity held by the mediator; and provision of the advice in a manner which maintains and respects “the
+principle of self-determination”.
+140
+Provisions omitted from old PS s 10
+As mentioned, the old PS contained a separate section dealing with “information” provided by the mediator (see s 10).
+The section needed to be read in conjunction with s 2.6. According to these provisions, mediators could give expert
+information, without necessarily turning the process into a blended one, provided: the information was couched in general
+and non-prescriptive terms, given at a time when the parties could integrate it into their decision-making, and the parties
+gave their consent. The new PS do not appear to allow for the possibility of mediators giving “general expert information”
+as opposed to “specific expert advice”. When mediators give information which tends to be specific, eg about the likely
+outcome of litigation or the prospects of success at trial, they should ensure that they comply with the more stringent
+requirements of s 10.2 of the new PS. This appears to be a positive development aimed at protecting the parties.
+Many commentators will consider the omission of s 10.4 of the old standards to be a backwards step. Opinions differ
+as to the extent to which a mediator is responsible for the interests of third parties not present at the mediation. Some
+commentators favour active intervention by the mediator to ensure that the interests of vulnerable third parties are
+protected. 56 Other authors take a more moderate approach on this issue. Hyman believes that a mediator should deal with
+matters of fairness and justice in mediation but only to a limited extent – in much the same way as lawyers might deal
+with moral issues in an interview with a client – by non-directive discussion of fairness and justice issues after which the
+parties are free to determine the final outcome. 57 A similar view is expressed by Hughes who suggests that the mediator
+should assist the parties to assess any agreement they reach for its fairness and enforceability without the mediator taking
+responsibility for the content of the agreement. 58 This appears to be the position adopted in relevant mediator standards,
+which impose upon mediators duties to help the parties reach a fair and equitable settlement (eg by raising questions as
+to the fairness, equity and feasibility of proposed options for settlement) and to ensure consideration of the interests of
+vulnerable parties and other affected and absent third persons – while leaving primary responsibility for the decision with
+the parties. 59
+New PS
+11 Charging for services
+There are three provisions in this section which, in brief, provide that: a mediator must obtain the participants' agreement
+as to the amount of fees and how they are to be apportioned (11.1); a mediator must not charge fees based on the
+outcome of the mediation “or calculated in a way that could influence the manner in which the mediator conducts the
+mediation” (11.2); and a mediator will return promptly any fees or charges paid in advance which exceed the amount
+payable (11.3).
+141
+Old PS
+12 Charges for services
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 25
+Statement of principle: Mediators should make all charges explicit to the parties and explain how they are calculated.
+OMITTED
+12: This section contained six points in relation to the charging of fees. In addition to the three points addressed in s 11 of
+the new PS (see above), s 12 provided as follows:
+• The mediator will explain any fees to be charged, ie he or she will explain how the fees are to be calculated, and any
+related costs (s 12.1).
+• Any written agreement with the participants should include a description of any fee arrangement with the mediator (s
+12.2).
+• While mediators cannot set fees on the basis of the mediation outcome, it is not unethical for a mediator to act pro
+bono or to leave to the discretion of the parties the payment of any fees (s 12.3).
+The underlined portions have been OMITTED.
+Commentary: s 11 Charging for services
+New PS s 11
+Section 11 of the new PS picks up three points from s 12 of the old PS, but omits the three additional points mentioned
+above. Section 11:
+• Does not appear to require mediators to explain how their fees are calculated.
+• Does not require the agreement in relation to fees to be in writing (to be fair, neither did s 12.2 of the old PS, but
+mention of “any written agreement” including a description of any fee arrangement might have encouraged all
+concerned to record their agreement in writing).
+• Might discourage mediators from offering their services on a pro bono basis or from mediating with organisations
+such as the Legal Aid Office and community justice programs where mediators are paid at minimal rates. If a
+mediator is conducting a mediation on a pro bono basis, he or she might well set time constraints on the mediation
+which would not apply if the mediator was conducting the mediation at their normal rate of remuneration. Section
+11.2 should be amended along the lines of the wording used in s 12.3 of the old PS.
+New PS
+12 Provision of information and promotion of services
+12.1: “A mediator must accurately represent their qualifications and experience and how they conduct their mediations”.
+12.2: “A mediator must not guarantee results or outcomes from the mediation process or make statements likely to create
+false expectations about favourable results”.
+Regard should also be had to s 10.1(c)(viii) which requires honesty in marketing and advertising.
+Also see s 12.3 (any information used for evaluation purposes must be de-identified) and s 12.4 (a mediator qualified under
+this scheme can describe themselves as “Accredited Mediator NMAS”).
+142
+Old PS
+13 Making public statements and promotion of services
+Statement of principle: “The mediator should ensure that public statements made by the mediator promoting business are
+accurate”. Section 12 of the new PS has a similar flavour.
+13.1: The purpose of public statements concerning mediation processes should be to:
+(a) educate the public about the process in order to help the public make informed judgments and choices; and
+(b) present the mediation process objectively, as one which seeks to empower participants directly and
+constitutes only one of several methods for arriving at an outcome
+(emphasis added). OMITTED
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 26
+13.2: Mediators are prohibited from misleading or deceiving the public when making statements about mediation and
+promoting services. OMITTED however see 10.1(c)(viii) of the new PS.
+13.3: When advertising professional services, mediators should restrict themselves to matters which educate and inform the
+public. OMITTED
+13.4: Where possible, mediators should “encourage and/or participate in research that can support further professional and
+public education”. OMITTED
+13.5: This provision enabled mediators to promote their accreditation under the NMAS.
+Commentary: s 12 Provision of information and promotion of services
+New PS s 12
+The new provision (s 12) does nothing to further the cause in having mediation accepted as a profession devoted to public
+service. In particular, the following points have been lost from s 13 of the old PS:
+1. The old standards seemed more concerned with the profession's relationship with the public, with multiple
+references to educating the public about mediation and representing mediation accurately and objectively so
+that the public could make informed choices about dispute resolution processes (see eg ss 13.1, 13.3, 13.4).
+2. Importantly, the only reference in the PS to “empowerment” of the participants through mediation (see s
+13.1(b) of the old PS) has been omitted.
+3. The sense of mediation being used for public service has been lost. Mediators are no longer encouraged to
+participate in research “that can support further professional and public education” (see s 13.4).
+New PS
+13 Waiver by MSB
+In exceptional circumstances the MSB may, conditionally or otherwise, waive compliance with any provision of the
+Practice Standards on application by a RMAB.
+There does not appear to be an equivalent provision in the old PS.
+Potential shortcomings of the new PS
+The new PS are relatively brief. They are reasonably well-structured. People who are familiar with mediation will find the
+PS easy to read. They cover parts of the mediation process that previously had been glossed over, such as intake sessions and
+preliminary conferences. However, the very brevity and simplicity of the new PS is also the source of their weakest points. Long
+portions of information (all of those sections underlined in the table above) have been deleted from the old PS. As a consequence,
+143
+the usefulness of the new PS as a tool to educate mediators (and to instil in them a sense of the values of mediation), participants
+and potential participants has been reduced.
+Lost information
+The mediation community needs to consider how the information lost from the old PS can best be disseminated to various
+stakeholders. Anyone (mediators, lawyers, court and tribunal officials) who is in a position of having to advise potential
+participants about what to expect in mediation might consider collating the material deleted from the old PS into a supplementary
+user guide for distribution to relevant participants. RMABs might consider issuing supplementary standards and/or issuing a
+formal commentary to the PS.
+The main points which have been lost from the new PS include:
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 27
+1. Mediation is not appropriate for all disputes or for all disputants, a point which is emphasised a number of times
+in the old PS (see, eg ss 2.2, 3.3, 3.4 and 4.1 of the old PS).
+2. Mediation is not just a dispute resolution process. It can be used, eg to negotiate the terms of a contract and
+future plans (see, eg ss 1.1, 1.4, 2.1, 2.3 of the old PS).
+3. Mediation practice is diverse (see s 1.4 of the old PS).
+4. Mediation is not counselling and it is not the occasion for obtaining legal advice, a point emphasised in s 2.2
+of the old PS.
+5. There is less emphasis now on self-determination of the participants. The old PS contained multiple provisions
+which emphasised self-determination (see eg ss 2.5, 2.6, 2.7, 9.7, 9.8 and 10.1). There appears to be a single
+reference to self-determination in the new PS (see s 2.2).
+6. The parties' ability to have input into the process by which they resolve their differences has been reduced. Under
+the old PS, the parties could negotiate what they wanted to achieve out of mediation (see, eg s 2.3 of the old
+PS), and they were to be given an opportunity to agree about the way in which the mediation was conducted
+(see s 3.2 of the old PS).
+7. The only provision on empowerment of participants (s 13.1 of the old PS) has been omitted.
+8. It is not clear what relationships the new PS are intended to cover, eg mediator and parties, mediator and judges/
+court officials.
+9. There has been a noticeable loss of concern for others not a party to the mediation but nonetheless affected by
+it (see, eg ss 2.3, 2.4(g) and 9.7 of the old PS which have been omitted).
+As has been noted above in the commentary, there are some provisions in the new PS which might be better worded. The
+following matters need to be clarified:
+• Mediators should help participants to get access to the standards (compare s 3.2(d) of the new PS with s 3.6 of the old PS).
+• Mediators need to be alert to pre-existing power imbalances, as well as to changes in the balance that may occur during
+mediation (see s 6.1 of the new PS).
+• The wording of s 7.1, which gives a partial definition of “impartial”, might be amended to include bias by “word” as well
+as bias by “action” and to extend the provision to a perception of bias, as well as actual bias.
+• The additional criteria listed in s 9.7 of the old PS (for assessing any proposed agreement) might be added to s 7.7 of the new
+PS. These are important criteria which highlight two of mediation's strongest features – it can produce outcomes that are
+different from those which might be delivered by a court; and it can produce outcomes which the parties consider to be fair.
+• The new PS are said to set minimum standards, yet the lists of knowledge, skills and ethical principles in s 10 appear to be
+exhaustive and closed. In the coming years, other competencies might be added to these lists. For example, all mediators
+(and all lawyers) need a basic knowledge and understanding of psychology.
+There are gaps in the new PS of which mediators should be mindful. These are discussed next.
+144
+Mind the gaps
+The new PS have left gaps which did not exist in the old PS. The most significant gaps are discussed below.
+Application of the standards
+It is a concern that the new PS might only apply to mediators who adopt a facilitative model of mediation. The drafters of the
+PS might reconsider the definition of mediation and its connection to the application section of Part I of the Revised NMAS
+documentation.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 28
+Absence of higher order aspirational goals
+Higher order goals which reflect the place of mediation in the justice system and the general community have not been included
+in the new PS (nor were they included in the old ones). Mediation is now an integral component of the civil justice system,
+a fact which should be reflected in the PS. It will be critical in the coming years to determine how and where mediation and
+mediators fit within the justice system. Consideration will have to be given to questions such as: Do mediators owe a duty to
+“the administration of justice” and if so, what is it?
+Professions are meant to provide a public service. There is no sense, in the new PS, of mediators providing a public service for
+society. One small way in which to demonstrate “the profession's commitment to integrity and public service”60 is to encourage
+mediators – with an appropriately worded provision in the PS, to perform some pro bono services each year. As mentioned
+above, the new PS appear to discourage the provision of pro bono mediation services (see s 11.2)
+Gaps and uncertainties in the formulation of mediator duties
+The new PS do not provide an exhaustive account of the duties of mediators. There are critical gaps and uncertainties, as
+discussed below.
+Confidentiality
+One of the most troubling gaps in the new PS concerns the issue of confidentiality in mediation. There are three main problem
+areas. First, it is generally accepted that mediators owe the participants a duty of confidentiality. This duty may arise from
+contract or legislative provision. The PS should be another source of the duty – the PS should provide that mediators owe the
+participants a duty of confidentiality in regard to information arising in connection with the mediation subject to stipulated
+exceptions. Second, for the reasons discussed above (see the discussion on ss 9.1 and 3.2(b) of the new PS), mediators should
+be required to personally explain to the participants, before commencing the mediation, the requirements of confidentiality and
+its exceptions. It is an unsafe practice for mediators to rely on intake officers to explain these matters (and in any event, the
+PS do not explicitly require intake officers to explain about the exceptions to confidentiality). Third, the standards should offer
+some guidance to mediators who are subpoenaed or otherwise required to testify or produce documents in court. The new PS
+are silent on this matter.
+Accountability, professional conduct and integrity
+Absence of clear definitions of terms such as “good faith” and “cooperation” is problematic. It is not a new problem. The new
+PS have introduced more uncertain terms, eg what do the terms “professional conduct” and “integrity” mean and require from
+a mediator? If mediators are accountable, to whom are they accountable and for what? How does integrity differ from honesty,
+if at all?
+Mediators orchestrate the flow of communication in mediation. They are skilled in directing the flow of communication using
+techniques such as reframing and questioning. It is important therefore to ascertain whether or not mediators owe a duty of
+honesty (aside from the very limited duty to be honest when advertising and promoting mediation services). As to whether
+mediators owe a duty of honesty in relation to other matters, the PS are silent. The PS are also silent on whether or not mediators
+owe a duty of candour. Other questions flow from this, eg: To whom are these duties owed,
+145
+if they exist, and in relation to what information? Should mediators be subject to a separate prohibition against misleading or
+deceiving? The PS offer no specific guidance for mediators on these important matters.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 29
+The answer to some of these questions might be different for lawyer mediators, as opposed to non-lawyer mediators. Lawyer
+mediators continue to be bound by the rules of conduct of the legal profession – thus they owe general duties of honesty, fairness
+and courtesy to all parties with whom they deal. 61 The interplay between mediator duties and the duties of lawyers has yet
+to be explored.
+Outcome fairness
+What responsibility, if any, does a mediator have for outcome fairness? Assuming the procedure used in mediation is fair, that
+the participants appear to be making fully informed decisions and that the proposed outcome does not involve the commission
+of an offence or fraud, should a mediator intervene to protect a participant against a manifestly unfair agreement and if so,
+what interventions are permitted? If a mediator intervenes, he or she may be breaching the most fundamental of obligations
+– to assist participants to make their own decisions. This issue has been debated for decades and there is no clear agreement
+by practitioners and scholars. For example, Schuwerk argues that “if it (the outcome) is a clearly unjust outcome, the dilemma
+of whether or not to intervene should be decided in favour of intervention”. 62 But Bush and Stulberg take the view that “it is
+not the mediator's job to guarantee a fair agreement, or any agreement at all; it is the mediator's job to guarantee the parties
+the fullest opportunity for self-determination and mutual acknowledgment”. 63 At the minimum, the PS might alert mediators
+to these diverse views. As part of their training, mediators should at least acquire techniques for raising matters of outcome
+fairness in the consciousness of the participants.
+A related issue concerns mediation and third parties.
+Interests of third parties
+Assuming again that the procedure used is fair and that the proposed outcome does not involve the commission of an offence or
+fraud, should a mediator intervene to protect the interests of third parties, ie those who are not party to the mediation but who are
+affected by it? The answer may depend on the subject matter of the dispute. For example, in family law disputes an obligation
+to consider the interests of children is imposed on mediators (and legal representatives) by relevant legislation. 64 What about
+in other contexts? Again, these matters can at least be flagged in the PS and mediators can be trained to raise the matter with
+the mediation participants in a non-coercive and non-directive manner. It is a pity that less attention seems to be given to the
+matter in the new PS.
+More gaps: Lack of guidance in dealing with ethical dilemmas
+Failure to alert practitioners to the potential for conflict of objectives and values
+The mediation community has been debating some of the issues mentioned above, eg as to whether or not mediators are
+responsible for outcome fairness, for many years without achieving consensus. When a mediator intervenes in any of the
+circumstances discussed above, there is a possibility that his or her actions will be in contravention of certain of the ethical
+principles enshrined in the PS. For example, if the mediator gives “information” or “advice” to an unrepresented party in an
+attempt to
+146
+address a perceived power imbalance, the mediator may be acting contrary to the principle of impartiality. These matters cannot
+be determinatively answered in the PS but the PS can at least prepare mediators for the potential for conflict.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 30
+First, mediators must be made aware of the various objectives and values claimed for mediation. The relevant objectives
+include: 65 dispute resolution according to standards agreed by the parties, satisfaction of individual interests or needs, party
+empowerment, mutually acceptable outcomes which are also fair and stable, outcomes which represent the best alternatives
+available (or Pareto optimal solutions) and maximisation of joint gains, enhanced relationships (or at least, minimisation of
+damage to relationships), increased access to a “higher quality justice” (ie justice that is responsive to individual needs and
+reflective of the preferences of the parties), efficiency and effectiveness. The values of mediation include:66 party participation
+and autonomy; self-determination; informed consent; process fairness; and mediator impartiality.
+Failure to prioritise various objectives and values
+The PS do not indicate which objective and value, if any, is paramount in the event of conflict (eg in the way that standards
+for lawyers prioritise the duty owed to the courts and the administration of justice). There does seem to be wide agreement that
+self-determination is the central value of mediation, but the answer cannot be as simple as this for we recognise that parties are
+not entitled to have it anyway they want it – ie there are limits. Other values have to be weighed into the mix.
+In reality, it is difficult to prioritise the objectives and values underlying mediation because the priority afforded to them differs
+depending on whether one is looking at the issue from the perspective of society, individual disputants, the service provider,
+and the individual mediator – all of whom may select some objectives and values over others. 67 Mediators need to be aware
+of the range of objectives and values at stake in a given mediation so that they can weigh up the alternative courses of action
+open to them and arrive at a decision that they can justify, if need be.
+Failure to guide mediators through an ethical evaluation process
+One of the most important functions of standards of professional conduct is to assist members of the relevant professional group
+to recognise and respond appropriately to ethical dilemmas. Mediators will often find themselves confronted with an ethical
+dilemma. An ethical dilemma arises when there is a “[c]hoice of competing values (ideas of goodness)” 68 which suggests “a
+variety of alternative and contradictory courses of action”. 69
+However, standards of conduct are limited in their capacity to provide practitioners with “right” answers for every dilemma
+that they may face. If standards (or more precisely, the drafters of those standards) could provide easy right answers, ethical
+dilemmas would not be dilemmas. Dilemmas exist precisely because they are resistant to certain correct answers. There are
+other reasons why it is notoriously difficult to draft standards which provide “right” answers. They include:
+147
+1. The inherent vagueness of language.
+2. The traditional tensions between the need for generality on the one hand, and the need for specificity on the other.
+3. The fact that no set of standards can possibly cover every eventuality that might arise in mediation. It is unrealistic
+to expect them to do so. And in fact, it would be highly undesirable to produce a set of standards which purported
+to provide an answer for every situation. Mediation is highly valued as a dynamic, flexible and informal process.
+The mediation community does not want or need a set of formal, inflexible rules. Mediators need room to exercise
+discretion in relation to some matters.
+4. The difficulty involved in gaining consensus from all stakeholders.
+Despite the challenges involved in drafting standards of conduct, it is possible for a set of standards to:
+1. Alert mediators to the potential for value conflict. Section 9.7 of the old PS is a perfect example of such a
+provision. Unfortunately, it has been omitted from the new PS.
+2. If possible, indicate relative priority of values.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 31
+3. Indicate possible alternative courses of action (or inaction).
+4. Give mediators some guidance on the variable factors that might be taken into account in deciding what to do
+(such as the position of the parties relative to each other, the nature of the dispute and so on) so that mediators
+can take these factors into account, weigh up the possibilities and arrive at a decision that they (the mediators)
+can justify.
+The new PS do not do these things.
+Conclusion
+Those responsible for drafting the NMAS Practice Standards (and the Approval Standards) have done a tremendous job. The
+new PS are better structured than the old ones. They are streamlined and easier to read, for some participants as least, ie those
+already familiar with mediation. But in streamlining and being economical with language, the drafters of the new PS have
+jettisoned much of what was useful in the old PS – including its emphasis on the diversity of mediation practice and its focus
+on the centrality of self-determination. The new PS do not “specify clearly the minimum practice and competency requirements
+for mediators” as recently claimed by the new chair of the MSB. For all the reasons discussed in this article, it is submitted that
+this claim is overstated. There are significant gaps and uncertainties in the new PS. If the PS are to reach their full potential, the
+gaps need to be filled, some sections need to be re-written in more user-friendly terms, and some guidance needs to be provided
+in respect of a number of ethical dilemmas.
+The MSB, NMABs and individual mediators each have a part to play in ensuring that all relevant information relating to
+mediation is provided to prospective participants, participants and anyone else contemplating the practice of mediation in
+Australia. Information may be disseminated through a combination of supplementary guidelines and commentaries such as the
+one provided in this article (from the MSB and NMABs), and information kits and agreements to mediate (steps which can
+be taken by individual mediators). Eventually the MSB might revise the PS again to take into account the matters raised in
+this article.
+Footnotes
+* Associate Professor, Faculty of Law, Bond University, Australia. All websites viewed May 2016.
+1 See National Mediator Accreditation System (NMAS) available at < http://www.msb.org.au>. Also see
+the historical account of the NMAS available at <http://www.msb.org.au/mediator-standards/standards>.
+2 For a list of Recognised Mediator Accreditation Bodies or RMABs, see the RMAB Contact List available
+at <http://msb.org.au/accreditation-bodies/rmab-contact-list>.
+3 The Approval Standards “specify the training, assessment, personal qualities and experience required of
+a NMAS accredited mediator and for their renewal of accreditation”: NMAS, s 1.2(a).
+4 NMAS, s 1.2.
+5 Letter from Anna Lee Cribb, Chair of the Mediator Standards Board (MSB) to members, 8 March 2015.
+Also see NMAS, Part I – Introduction, Structure.
+6 Letter from Anna Lee Cribb, n 5.
+7 Letter from Anna Lee Cribb, n 5 (emphasis added).
+8 See NMAS, s 1.2(b). Generally, on the functions of standards of conduct, see Margaret Ann Wilkinson,
+Christa Walker and Peter Mercer, “Do Codes of Ethics Actually Shape Legal Practice?” (2000) 45 McGill
+Law Journal 645, 651-652; Vincent R Johnson, “The Virtues and Limits of Codes in Legal Ethics” (2000)
+14 Notre Dame Journal of Law, Ethics and Public Policy 25, 41 ; Scott Peppet, “ Lawyers' Bargaining
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 32
+Ethics, Contract, and Collaboration: The End of the Legal Profession and the Beginning of Professional
+Pluralism” (2005) 90 Iowa Law Review 475, 506.
+9 NMAS, Part I – Introduction, Purpose.
+10 NMAS, Part I – Introduction, Application (footnote omitted).
+11 For instance, Commonwealth government agencies (and their legal counsel) and family dispute resolution
+system lawyers are all subject to additional regulation: see Legal Services Directions 2005 (Cth) and
+Family Law (Family Dispute Resolution Practitioners) Regulations 2008 (Cth) Pt 3 respectively.
+12 NMAS, Part I – Introduction, Role of mediators in a mediation process.
+13 See, eg Queensland Law Society, The Australian Solicitors Conduct Rules 2012  in Practice: A
+Commentary for Australian Legal Practitioners  (2014). Also see the American Bar Association Model
+Rules of Professional Conduct (2010).
+14 This statement appeared in a box.
+15 In theory, a mediator can be penalised for non-compliance with the Standards. Each RMAB is responsible
+for having a complaint system that meets industry benchmarks (see NMAS, s 1.4). According to NMAS,
+s 5, where a mediator is significantly non-compliant with the Approval and Practice Standards, an RMAB
+may suspend the mediator's accreditation and specify any conditions, such as further training, which must
+be met by the mediator prior to seeking reinstatement of accreditation. However, given that the NMAS is
+a voluntary system and that mediators do not need to be accredited to practise as a mediator, suspension
+may have little impact.
+16 See, eg the framework imposed by legislation such as the Civil Proceedings Act 2011 (Qld).
+17 The definition also appears in NMAS, Part I – Introduction, footnote 1, in the section dealing with the
+application of the Standards.
+18 Susan Douglas, Ethics in Mediation: Centralising Relationships of Trust  (Paper presented at the 4 th
+ADR Research Network Round Table, 12-13 September 2015).
+19 Despite the diversity of mediation practice, there is wide agreement that party self-determination is central
+to all models of mediation. It has been called “[t]he controlling principle of mediation” (Jacqueline M
+Nolan-Haley, “Lawyers, Clients, and Mediation” (1998) 73 Notre Dame Law Review 1369, 1374 ); the
+driving value behind mediation (Lela Porter Love, “ Mediation: The Romantic Days Continue” (1997)
+38 South Texas Law Review 735, 739 ); and “the most fundamental principle of mediation” (James J
+Alfini, “Mediation as a Calling: Addressing the Disconnect Between Mediation Ethics and the Practices
+of Lawyer Mediators” (2008) 49 South Texas Law Review 829, 830).
+20 The term “facilitative” is not actually used in the section. However, the definition used in the Standards
+tracks closely with Folberg and Taylor's early definition of mediation – one which has been described as
+facilitative. Folberg and Taylor defined mediation as: “The process by which the participants, together
+with the assistance of a neutral person or persons, systematically isolate disputed issues in order to
+develop options, consider alternatives, and reach a consensual settlement that will accommodate their
+needs”: see J Folberg and A Taylor, Mediation: A Comprehensive Guide to Resolving Conflicts Without
+Giving In (Jossey-Bass Publishers, San Francisco, 1988) 7.
+21 Laurence Boulle, Mediation: Principles, Process, Practice  (LexisNexis Butterworths, 3 rd  ed, 2011)
+43-47. Boulle's framework is one of a number of categorisations available. One of the most well-known is
+that of Riskin, who classified mediator approaches to mediation by way of a grid consisting of four style
+quadrants for facilitative narrow, evaluative narrow, facilitative broad and evaluative broad mediation
+styles: see Leonard L Riskin, “ Decisionmaking in Mediation: The New Old Grid and the New New
+Grid System” (2003) 79 Notre Dame Law Review 1, 3 . Also see, eg Michal Alberstein who discusses
+pragmatic, transformative and narrative models of mediation: Michal Alberstein, “ Forms of Mediation
+and Law: Cultures of Dispute Resolution” (2007) 22 Ohio State Journal on Dispute Resolution 321,
+325-331. Whether called styles or models, they represent different theories about how mediators should
+act in relation to the parties.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 33
+22 Boulle refers to these categories as archetypical models because they are not so much discrete forms
+of mediation practice but rather ways of conceptualising the different tendencies in practice: Boulle, n
+21, 43. The most heated debate has concerned the appropriateness of “evaluative mediation”, where the
+mediator gives the parties an opinion on the likely outcome of court proceedings.
+23 Generally, see Bobette Wolski, “The New Limitations of Fisher and Ury's Model of Interest-based
+Negotiation: Not Necessarily the Ethical Alternative” (2012) 19 James Cook University Law Review 127.
+24 Research shows that use of a number of approaches by mediators is the norm “rather than the exception
+in the mediation of civil legal disputes”: Dwight Golann, “ Variations in Mediation: How – and Why –
+Legal Mediators Change Styles in the Course of a Case” [2000] Journal of Dispute Resolution 41, 42 .
+Also see Boulle, n 21, 43; Riskin, n 21, 14-18; Jeffrey W Stempel, “ The Inevitability of the Eclectic:
+Liberating ADR from Ideology” [2000] Journal of Dispute Resolution 247, 248.
+25 Kimberlee K Kovach, “New Wine Requires New Wineskins: Transforming Lawyer Ethics for Effective
+Representation in a Non-Adversarial Approach to Problem Solving: Mediation” (2001) 28 Fordham
+Urban Law Journal 935, 964.
+26 One of the most well-known judicial interpretations of “good faith” in Australia can be found in the case
+of Western Australia v Taylor (1996) 134 FLR 211; [1996] NNTTA 34, 224-225 heard by the National
+Native Title Tribunal. Member Sumner set out a list of 18 indicia which defined good faith negotiation
+under the Native Title Act 1993 (Cth). These indicia are still relied upon: see Cosmos v Alexander [2009]
+NNTTA 35, [22]-[26].
+27 Samantha Hardy and Olivia Rundle, Mediation for Lawyers  (CCH Australia Ltd, 2010) 230; Bobette
+Wolski, “The Truth About Honesty and Candour in Mediation: What the Tribunal Left Unsaid in Mullins'
+Case” (2012) 36 MULR 706, 726-727.
+28 United Group Rail Services Ltd v Rail Corporation (NSW) (2009) 74 NSWLR 618; [2009] NSWCA 177,
+[76] (Allsop P), discussed in Wolski, n 27, 726.
+29 See State Bank v Freeman (Unreported, NSWSC, Badgery-Parker J, 31 January 1996) 35.
+30 Hardy and Rundle, n 27, 230; Anne M Burr, “Ethics in Negotiation: Does Getting to Yes Require
+Candor?” [2001] Dispute Resolution Journal 10, 13.
+31 See the discussion in Wolski, n 27, 727. Also see FMG Pilbara Pty Ltd v Cox  (2009) 175 FCR
+141; [2009] FCAFC 49 . In the US, see Roger L Carter, “ Oh, Ye of Little [Good] Faith: Questions,
+Concerns and Commentary on Efforts to Regulate Participant Conduct in Mediations” [2002] Journal
+of Dispute Resolution 367, 384, 395 ; and Maureen A Weston, “ Checks on Participant Conduct in
+Compulsory ADR: Reconciling the Tension in the Need for Good-Faith Participation, Autonomy, and
+Confidentiality” (2001) 76 Indiana Law Journal 591, 626-627.
+32 American Bar Association Settlement Guidelines, Committee Notes to Guideline 4.3.1, 49.
+33 See Boulle, n 21, 77, explains that “mediators are obliged to conduct the process in a way which is fair,
+even-handed and objective as between the parties, and is seen to be so by the parties”.
+34 The concept of “process fairness”  has been discussed at length in the literature. For example,
+Welsh identifies four particular process elements that heighten perceptions of procedural justice: “the
+opportunity for disputants to express their ‘voice’, assurance that a third party considered what they
+said, and treatment that is both even-handed and dignified” : Nancy A Welsh, “ Disputants' Decision
+Control in Court-Connected Mediation: A Hollow Promise Without Procedural Justice” [2002] Journal
+of Dispute Resolution 179 , 185 (citations omitted). For more on criteria for procedural fairness, see
+Jill Howieson, “Perceptions of Procedural Justice and Legitimacy in Local Court Mediation” (2002) 9
+Murdoch University Electronic Journal of Law  available at <https://www.murdoch.edu.au/elaw/issues/
+v9n2/howieson92.html>; and Omer Shapira, “ Joining Forces in Search for Answers: The Use of
+Therapeutic Jurisprudence in the Realm of Mediation Ethics” (2008) 8 Pepperdine Dispute Resolution
+Law Journal 243, 254.
+35 It is included in most standards of conduct for mediators in most jurisdictions.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 34
+36 Nancy A Welsh, “ The Thinning Vision of Self-Determination in Court-Connected Mediation: The
+Inevitable Price of Institutionalization?” (2001) 6 Harvard Negotiation Law Review 1, 17-18 ;
+Jacqueline M Nolan-Haley, “Informed Consent in Mediation: A Guiding Principle for Truly Educated
+Decisionmaking” (1999) 74 Notre Dame Law Review 775, 790-791. Also see Donald T Weckstein, “In
+Praise of Party Empowerment – and of Mediator Activism” (1997) 33 Willamette Law Review 501, 530.
+37 See generally Bobette Wolski, “Mediator Settlement Strategies: Winning Friends and Influencing
+People” (2001) 12 Australasian Dispute Resolution Journal 248; Nolan-Haley, n 36, 790-791.
+38 See Laurence Boulle and Nadja Alexander, Mediation: Skills and Techniques (LexisNexis Butterworths,
+2012) 112, 118; Peter Condliffe, Conflict Management: A Practical Guide  (LexisNexis Butterworths,
+4 th  ed, 2012) 264; Boulle, n 21, 236-237.
+39 Christopher W Moore, The Mediation Process: Practical Strategies for Resolving Conflict (Jossey-Bass,
+3 rd  ed, 2003) 77 (who asserts that mediators have a procedural bias towards interest-based negotiation).
+There is an explicit preference for an interest-based approach in certain types of disputes, eg in family
+law matters: John Lande and Gregg Herman, “Fitting the Forum to the Family Fuss: Choosing Mediation,
+Collaborative Law, or Cooperative Law for Negotiating Divorce Cases” (2004) 42 Family Court Review
+280, 282.
+40 It is well recognised in the literature that most negotiations are neither purely positional nor interest-
+based. See, eg Raymond A Friedman and Debra L Shapiro, “Deception and Mutual Gains Bargaining: Are
+They Mutually Exclusive?” (1995) 11 Negotiation Journal 243, 244, 247; Charles B Craver, “Negotiation
+Ethics for Real World Interactions” (2010) 25 Ohio State Journal on Dispute Resolution 299, 305; Alex J
+Hurder, “The Lawyer's Dilemma: To Be or Not To Be a Problem-Solving Negotiator” (2007) 14 Clinical
+Law Review 253, 291.
+41 Roger Fisher and William Ury, Getting to Yes: Negotiating an Agreement Without Giving In  (Business
+Books Limit, 2 nd  ed, 1991) 4. The first edition was published in 1981.
+42 Drawn from a definition provided by A Chay and J Smith, Legal Interviewing in Practice  (LBC
+Information Services, Sydney, 1996) 37.
+43 This article does not deal with the possible conflict that may arise when a mediator is bound by two (or
+more) codes.
+44 See references at n 56.
+45 See references at n 62 and n 63.
+46 Civil Dispute Resolution Act 2011 (Cth) s 4.
+47 See, eg Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW), r 4.1.2; Legal
+Profession Uniform Conduct (Barristers) Rules 2015 (NSW), r 4(c).
+48 The court has had occasion to discuss the meaning of courtesy. Courtesy connotes politeness. That clearly
+varies depending on the circumstances': see Legal Practitioners Complaints Committee v Fleming [2006]
+WASAT 352, [72]-[73].
+49 See generally Wolski, n 37. Also see Susan Douglas, “Neutrality in Mediation: A Study of Mediator
+Perceptions” (2008) 8 Queensland University of Technology Law and Justice Journal 139, 150; Tony
+Bogdanoski, “The Neutral Mediator's Perennial Dilemma: To Intervene or Not to Intervene” (2009) 9
+Queensland University of Technology Law and Justice Journal 26, 39. Douglas claims that there have
+been a number of responses to deal with the apparent inconsistency between the rhetoric of neutrality
+and the actuality of practice, including “calls to simply abandon neutrality as an integral component of
+mediation practice; calls to reframe its significance as no longer a core tenet of practice; and calls to
+replace it with alternative legitimating principles.”: Douglas, 140 (citations omitted). The problem is that
+there is no consensus on how it should be reframed. Several authors recommend that mediator neutrality
+be reconceptualised or reframed as a situated, contextual concept in such a way as to make it legitimate for
+mediators to intervene to deal with the parties' problematic power relations and to “ensure fair outcomes”:
+see respectively Hilary Astor, “Mediator Neutrality: Making Sense of Theory and Practice” (2007) 16
+Social & Legal Studies 221, 236 and Bogdanoski, 43. Still other commentators believe that the whole
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 35
+notion of neutrality is a “fiction”: James R Coben, “Gollum, Meet Sméagol: A Schizophrenic Rumination
+on Mediator Values Beyond Self-determination and Neutrality” (2004) 5 Cardozo Journal of Conflict
+Resolution 65.
+50 In the first edition of his popular text on mediation, Moore described mediators as “acceptable, impartial,
+and neutral” third parties: Christopher Moore, The Mediation Process: Practical Strategies for Resolving
+Conflict (Jossey-Bass, 1991) 14. In a later edition of the text, he describes mediators merely as
+“acceptable” third parties: Moore, n 39, 14-15.
+51 All mediators have some interest in the outcome of the dispute. As Weckstein notes, “inherent in the
+nature of the mediator's calling is a ‘bias’ in favour of settlement … and many mediators push hard to
+achieve that end”: Weckstein, n 36, 510.
+52 Rebekah Ryan Clark, “The Writing on the Wall: The Potential Liability of Mediators as
+Fiduciaries” (2006) 4 Brigham Young University Law Review 1033, 1034. However, see the discussion
+by Boulle, n 21, 728 who thinks it unlikely that “courts will apply the fiduciary concept to mediation
+relationships”.
+53 Douglas, n 18.
+54 See discussion and references at n 19 and n 36.
+55 See discussion in relation to NMAS, s 7.4 and n 36.
+56 For instance, Hobbs and Susskind suggest that mediators and possibly legal representatives have duties
+to parties beyond those at the mediation table in family law and public interest disputes: Steven H
+Hobbs, “Facilitative Ethics in Divorce Mediation: A Law and Process Approach” (1988) 22 University
+of Richmond Law Review 325, 327, 339; Lawrence Susskind, “Environmental Mediation and the
+Accountability Problem” (1981) 6 Vermont Law Review 1, 40-41.
+57 Jonathan M Hyman, “Swimming in the Deep End: Dealing with Justice in Mediation” (2004) 6 Cardozo
+Journal of Conflict Resolution 19, 32, 37, 44.
+58 Patricia Hughes, “ Ethics in Mediation: Which Rules? Whose Rules?” (2001) 50 University of New
+Brunswick Law Journal 251, 259-260.
+59 See the standards and guidelines for mediators discussed in Boulle, n 21, 481.
+60 Nicola Higgs-Kleyn and Dimitri Kapelianis, “The Role of Professional Codes in Regulating Ethical
+Conduct” (1999) 19 Journal of Business Ethics 363, 363, 365.
+61 See, eg Legal Profession Uniform Law Australian Solicitors' Conduct Rules 2015 (NSW), r 4.1.2; Legal
+Profession Uniform Conduct (Barristers) Rules 2015 (NSW), r 4(c).
+62 Robert P Schuwerk, “Reflections on Ethics and Mediation” (1997) 38 South Texas Law Review 757, 764.
+63 Robert A Baruch Bush, “Efficiency and Protection, or Empowerment and Recognition? The Mediator's
+Role and Ethical Standards in Mediation” (1989) 41 Florida Law Review 253, 272; Joseph B Stulberg,
+“The Theory and Practice of Mediation: A Reply to Professor Susskind” (1981) 6 Vermont Law Review
+Review 85, 86-88. Also see Leonard L Riskin, “Toward New Standards for the Neutral Lawyer in
+Mediation” (1984) 26 Arizona Law Review 329, 330 who argues that mediator intervention erodes the
+consensual nature of any agreement.
+64 In Australia (and in England and Wales), the law dictates that the children's welfare is paramount.
+Generally, see Lisa Webley, “Divorce Solicitors and Ethical Approaches – The Best Interests of the Client
+and/or the Best Interests of the Family?” (2004) 7 Legal Ethics 231, 247.
+65 Boulle, n 21, 91-97; Tania Sourdin, Alternative Dispute Resolution (Lawbook Co., 3 rd  ed, 2008) 18-24;
+Peter Adler, Karen Lovaas and Neal Milner, “The Ideologies of Mediation: The Movement's Own
+Story” (1988) 10 Law & Policy 317, 331; and C Harrington and S Merry, “Ideological Production: The
+Making of Community Mediation” (1988) 22 Law & Society Review 709, 715.
+66 Carrie Menkel-Meadow, “Ethics in Alternative Dispute Resolution: New Issues, No Answers From the
+Adversary Conception of Lawyers' Responsibility” (1997) 38 South Texas Law Review 407, 453; Nolan-
+Haley, n 19, 1371; Welsh, n 36, 16.
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation...
+ WESTLAW   ©  Thomson Reuters. 36
+67 This is reflected in the work that was undertaken by the National Alternative Dispute Resolution Advisory
+Council (NADRAC) in developing ADR Standards. NADRAC examined and identified the objectives
+of ADR from the perspective of the parties (or users of the services), ADR practitioners providing the
+service, objectives of governments, and society as a whole: NADRAC, A Framework for ADR Standards
+(Report to the Commonwealth Attorney-General, April 2001) 13.
+68 Joseph Fletcher, “Situation Ethics, Law and Watergate” (1975) 6 Cumberland Law Review 35, 55. Also
+see Julie MacFarlane, “ Mediating Ethically: The Limits of Codes of Conduct and the Potential of a
+Reflective Practice Model” (2002) 40 Osgoode Hall Law Journal 49, 57.
+69 Christine Parker and Adrian Evans, Inside Lawyers' Ethics (Cambridge University Press, 2007) 10.
+End of Document © 2026 Thomson Reuters. All rights reserved.

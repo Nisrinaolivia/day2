@@ -4,11 +4,14 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import numpy as np
 import re
+import os
 
 load_dotenv()
 client = OpenAI()
 
 st.title("Exercise 2.3 - Manual RAG")
+
+SAVE_PATH = "saved_document.txt"
 
 
 def get_embedding(text):
@@ -23,7 +26,11 @@ def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
 
+# --- Load the document: either from a new upload, or from the saved file ---
+text = None
+
 uploaded_file = st.file_uploader("Choose a file")
+
 if uploaded_file is not None:
     if uploaded_file.type == "application/pdf":
         reader = PdfReader(uploaded_file)
@@ -31,6 +38,18 @@ if uploaded_file is not None:
     else:
         text = uploaded_file.getvalue().decode("utf-8")
 
+    with open(SAVE_PATH, "w", encoding="utf-8") as f:
+        f.write(text)
+    st.success("Document uploaded and saved.")
+
+elif os.path.exists(SAVE_PATH):
+    with open(SAVE_PATH, "r", encoding="utf-8") as f:
+        text = f.read()
+    st.info("Loaded your previously saved document.")
+
+
+# --- Only continue if we have a document ---
+if text is not None:
     sentences_per_chunk = st.number_input(
         "How many sentences per chunk?",
         min_value=1,
@@ -44,13 +63,12 @@ if uploaded_file is not None:
 
     st.write(f"The document was split into {len(chunks)} chunks.")
 
-    # Show the chunks so the user can read them
     with st.expander("View all chunks"):
         for index, chunk in enumerate(chunks):
             st.write(f"**Chunk {index + 1}**")
             st.write(chunk)
 
-    # Ask a question
+    # --- Ask a question ---
     question = st.text_input("Ask a question about the document:")
 
     if question:

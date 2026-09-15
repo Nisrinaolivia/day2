@@ -1,0 +1,20 @@
+Section 6.1 of the old PS did impose a duty of confidentiality on the mediator,
+prohibiting voluntary disclosure by the mediator of any information obtained in connection with the mediation except in
+four instances. This provision should have been retained in the new PS. There is a significant shift in the new PS – s 9.1 does not impose a duty of confidentiality on the mediator but rather,
+imposes on the mediator a duty to “respect the agreed confidentiality arrangements” entered into by the parties. It does
+not, of itself, impose a duty of confidentiality on the mediator. And in fact the provisions in s 9 assume a pre-existing
+confidentiality agreement between the parties. It is natural then to expect that the mediator might have a duty to encourage
+the parties to agree on this issue at a preliminary conference if they have not already done so. Unfortunately this is not the
+case. Section 3.2(b) also assumes a pre-existing mediation and confidentiality agreement. If there is an agreement, s 9.1
+imposes a duty on the mediator to respect it. As to the exceptions to confidentiality, the new PS has wisely separated s 6.1(d) into two grounds of exception to
+confidentiality (cf ss 9.1(d) and (e)). However, there is a drafting problem with the list of exceptions to confidentiality. The first three (in s 9.1(a), 9.1(b) and 9.1(c)) are connected by the word “or” so that they may be considered separate
+Mediator standards of conduct: A commentary to the revised National Mediator..., (2016) 5 Journal of Civil
+Litigation... WESTLAW   ©  Thomson Reuters. 21
+circumstances where the requirements of confidentiality can be waived, but the last three exceptions (in 9.1(c), 9.1(d) and
+9.1(e)) are not connected at all either by the word “or” or the word “and” so that it is difficult to determine whether they are
+to be considered separate grounds. It is likely that they are intended as discrete grounds but the matter needs to be clarified. There is another potentially serious gap that has opened up in the new provisions regarding confidentiality. Sections
+6.2 and 6.3 of the old PS have been omitted. These sections imposed on mediators a duty to clarify the participants'
+expectations of confidentiality and to inform them about the limitations of confidentiality. Under the new PS, someone –
+who need not be the mediator – must explain to the parties during an intake session or preliminary conference “the nature
+and content of any agreement or requirement to enter into mediation including confidentiality, costs and how they are to
+be paid” (s 3.2(b) of the new PS). There is no mention of exceptions to confidentiality at this point.
