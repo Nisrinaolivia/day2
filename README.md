@@ -21,10 +21,10 @@
 3. Add secrets to .env .OPENAI_API_KEY = ""
 
 # Step 4 - CREATE SOME CODE
-
-Create a python file = call it whatever you'd like -home.py by convention
-run streamlit, referring to the python file I created
-streamlit run home.py
+1. Create a python file = call1 it whatever you'd like -home.py by convention
+> touch home.py
+2. run streamlit, referring to the python file I created
+> streamlit run home.py
 
 CREATE CODE IN YOUR PYTHON FILE
 Import streamlit
