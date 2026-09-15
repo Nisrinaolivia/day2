@@ -1,0 +1,21 @@
+21
+circumstances where the requirements of confidentiality can be waived, but the last three exceptions (in 9.1(c), 9.1(d) and
+9.1(e)) are not connected at all either by the word “or” or the word “and” so that it is difficult to determine whether they are
+to be considered separate grounds. It is likely that they are intended as discrete grounds but the matter needs to be clarified. There is another potentially serious gap that has opened up in the new provisions regarding confidentiality. Sections
+6.2 and 6.3 of the old PS have been omitted. These sections imposed on mediators a duty to clarify the participants'
+expectations of confidentiality and to inform them about the limitations of confidentiality. Under the new PS, someone –
+who need not be the mediator – must explain to the parties during an intake session or preliminary conference “the nature
+and content of any agreement or requirement to enter into mediation including confidentiality, costs and how they are to
+be paid” (s 3.2(b) of the new PS). There is no mention of exceptions to confidentiality at this point. The person conducting
+the intake or preliminary session may not mention the exceptions, a state of affairs which may be unknown to the mediator. The mediator no longer has an obligation to inform the participants about confidentiality (and its exceptions) before or
+during the mediation process – other than to inform them about the confidentiality that applies if separate sessions are held
+(s 9.2). There is another minor change of note: s 6.4 of the old PS appeared to give participants the opportunity to discuss and
+agree upon the obligation of confidentiality attached to separate sessions. Section 9.2 of the new PS appears to give the
+mediator the power to decide on the issue. It is possible that a mediator might say “nothing will be confidential unless
+you tell me it is to be treated as confidential” or “the only thing that is confidential is this …” Given that one of the stated
+objectives of the PS is to achieve some level of consistency, it might have been better to regard everything said or done in a
+separate session as confidential subject to specified exceptions. 136
+New PS
+10 Knowledge, skills and ethical principles
+10.1: A mediator, consistent with the Approval Standards, must have the knowledge and skills, and an understanding of the
+ethical principles, outlined below.
