@@ -20,7 +20,7 @@
 2. Ensure .env file is grayed out (git ignored) - if not, edit .gitignored to include .env
 3. Add secrets to .env .OPENAI_API_KEY = ""
 
-##CREATE SOME CODE
+# Step 4 - CREATE SOME CODE
 
 Create a python file = call it whatever you'd like -home.py by convention
 run streamlit, referring to the python file I created
